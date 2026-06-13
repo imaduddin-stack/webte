@@ -1,0 +1,14 @@
+[
+  { "id":1, "nama":"PT PLN (Persero)", "jenis":"BUMN", "judul":"Program Magang & Rekrutmen Lulusan", "tingkat":"Nasional" },
+  { "id":2, "nama":"Siemens Indonesia", "jenis":"Industri", "judul":"Workshop IoT & Industri 4.0", "tingkat":"Internasional" },
+  { "id":3, "nama":"PT Schneider Electric Indonesia", "jenis":"Industri", "judul":"Penyediaan Perangkat Lab & Pelatihan", "tingkat":"Internasional" },
+  { "id":4, "nama":"PDAM Tirta Moedal Semarang", "jenis":"BUMD", "judul":"Penelitian Efisiensi Pompa Listrik", "tingkat":"Lokal" },
+  { "id":5, "nama":"Universiti Teknologi Malaysia (UTM)", "jenis":"Akademik", "judul":"Joint Research & Student Exchange", "tingkat":"Internasional" },
+  { "id":6, "nama":"PT Pertamina EP", "jenis":"BUMN", "judul":"Penelitian Instrumentasi Kilang", "tingkat":"Nasional" },
+  { "id":7, "nama":"BRIN (Badan Riset Inovasi Nasional)", "jenis":"Pemerintah", "judul":"Kolaborasi Riset Energi Terbarukan", "tingkat":"Nasional" },
+  { "id":8, "nama":"SMK Negeri 4 Semarang", "jenis":"Pendidikan", "judul":"Program Guru Tamu & Magang Dosen", "tingkat":"Lokal" },
+  { "id":9, "nama":"PT ABB Indonesia", "jenis":"Industri", "judul":"Sertifikasi & Pelatihan Teknik Kontrol", "tingkat":"Internasional" },
+  { "id":10,"nama":"Pemkot Semarang - Dinas ESDM", "jenis":"Pemerintah", "judul":"Pendampingan Audit Energi Kota", "tingkat":"Lokal" },
+  { "id":11,"nama":"IEEE Indonesia Section", "jenis":"Asosiasi Profesi", "judul":"Anggota & Penyelenggara Konferensi", "tingkat":"Internasional" },
+  { "id":12,"nama":"Asosiasi Profesi Insinyur Indonesia (PII)", "jenis":"Asosiasi Profesi", "judul":"Sertifikasi Kompetensi Dosen & Lulusan", "tingkat":"Nasional" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id":1, "judul":"Smart Grid Optimization Using Particle Swarm Algorithm", "dosen":"Dr. Eng. Agus Setiawan", "jenis":"Jurnal Internasional", "tahun":"2025", "url":"https://ieeexplore.ieee.org/dummy1", "keterangan":"IEEE Transactions on Power Systems, Q1" },
+  { "id":2, "judul":"IoT-Based Power Quality Monitoring System", "dosen":"Ir. Budi Hartono", "jenis":"Jurnal Nasional", "tahun":"2025", "url":"https://journal.upgris.ac.id/dummy2", "keterangan":"Jurnal Teknik Elektro Indonesia, Sinta 2" },
+  { "id":3, "judul":"Deep Learning for Power System Fault Classification", "dosen":"Diah Permata Sari", "jenis":"Prosiding Internasional", "tahun":"2024", "url":"https://ieeexplore.ieee.org/dummy3", "keterangan":"IEEE TENCON 2024" },
+  { "id":4, "judul":"Robot Vision for High Voltage Line Inspection", "dosen":"Yoga Pratama", "jenis":"Prosiding Nasional", "tahun":"2024", "url":"https://senatik.upgris.ac.id/dummy4", "keterangan":"SENATIK 2024" },
+  { "id":5, "judul":"Renewable Energy Adoption in Rural Indonesia", "dosen":"Muhamad Fauzi", "jenis":"Jurnal Internasional", "tahun":"2024", "url":"https://www.sciencedirect.com/dummy5", "keterangan":"Renewable & Sustainable Energy Reviews, Q1" }
+]

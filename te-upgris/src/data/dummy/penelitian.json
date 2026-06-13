@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "judul": "Optimasi Smart Grid Berbasis Algoritma Particle Swarm Optimization untuk Distribusi Energi Terbarukan",
+    "dosen": "Dr Adhi Kusmanto, S.T., M.Eng.",
+    "tahun": "TS",
+    "jenis": "Penelitian",
+    "dana": "Rp 85.000.000",
+    "sumber": "Dikti",
+    "roadmap": "Sistem Energi Cerdas",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+    "contentUrl": "/content/penelitian/penelitian-1.md"
+  },
+  {
+    "id": 2,
+    "judul": "Sistem Monitoring Kualitas Daya Listrik Berbasis IoT untuk Industri Manufaktur",
+    "dosen": "Ir. Budi Hartono, S.T., M.Eng.",
+    "tahun": "TS",
+    "jenis": "Penelitian",
+    "dana": "Rp 60.000.000",
+    "sumber": "Internal Lembaga",
+    "roadmap": "Otomasi Industri",
+    "image": "https://images.unsplash.com/photo-1581092921461-7031e4bfb83e?w=600&q=70",
+    "contentUrl": null
+  },
+  {
+    "id": 3,
+    "judul": "Pengembangan Robot Inspeksi Saluran Tegangan Tinggi dengan Computer Vision",
+    "dosen": "Yoga Pratama, S.T., M.T.",
+    "tahun": "TS-1",
+    "jenis": "Penelitian",
+    "dana": "Rp 75.000.000",
+    "sumber": "Dikti",
+    "roadmap": "Robotika & Otomasi",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=70",
+    "contentUrl": "/content/penelitian/penelitian-3.md"
+  },
+  {
+    "id": 4,
+    "judul": "Klasifikasi Gangguan Sistem Tenaga Listrik Menggunakan Deep Learning",
+    "dosen": "Diah Permata Sari, S.T., M.Kom.",
+    "tahun": "TS-1",
+    "jenis": "Penelitian",
+    "dana": "Rp 50.000.000",
+    "sumber": "Internal Lembaga",
+    "roadmap": "AI untuk Sistem Tenaga",
+    "image": null,
+    "contentUrl": null
+  }
+]
