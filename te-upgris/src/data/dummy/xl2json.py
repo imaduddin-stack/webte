@@ -1,11 +1,13 @@
 import os
 import json
 import pandas as pd
+from datetime import datetime
 
 def konversi_excel_ke_json():
     # 1. Mendapatkan folder tempat script ini dijalankan
     folder_sekarang = os.getcwd()
-    print(f"Membaca folder saat ini: {folder_sekarang}\n")
+    # Target output folder: github-data/data/
+    target_output_dir = os.path.abspath(os.path.join(folder_sekarang, "..", "..", "..", "github-data", "data"))
     
     # 2. Mencari file Excel (.xlsx) di folder tersebut
     # Mengabaikan file sementara Excel yang diawali dengan '~$'
@@ -16,45 +18,48 @@ def konversi_excel_ke_json():
         print("Pastikan script ini diletakkan di folder yang sama dengan file Excel Anda.")
         return
 
-    # Jika ada lebih dari satu file Excel, script ini akan memproses file pertama yang ditemukan
-    # Anda juga bisa memodifikasinya dengan perulangan (looping) jika ingin memproses banyak file Excel sekaligus
-    file_excel_target = file_excel_list[0]
+    # Mencari file spesifik Hasil_Konversi_JSON.xlsx
+    file_excel_target = next((f for f in file_excel_list if "Hasil_Konversi" in f), file_excel_list[0])
     print(f"File Excel ditemukan: '{file_excel_target}'")
-    print("Mulai membaca seluruh sheet...\n")
     
     try:
-        # 3. Membaca file Excel
-        # sheet_name=None digunakan untuk membaca SEMUA sheet sekaligus.
-        # Hasilnya berupa dictionary dengan format: { 'Nama_Sheet': DataFrame }
-        semua_sheet = pd.read_excel(file_excel_target, sheet_name=None)
+        # 3. Membaca semua sheet (sheet_name=None mengembalikan dictionary of DataFrames)
+        print(f"Mulai membaca file Excel: '{file_excel_target}'...")
+        all_sheets = pd.read_excel(file_excel_target, sheet_name=None)
         
-        indeks = 1
-        total_sheet = len(semua_sheet)
-        
-        for sheet_name, df in semua_sheet.items():
-            print(f"[{indeks}/{total_sheet}] Memproses Sheet: '{sheet_name}' ...")
+        # Persiapan mapping tahun
+        current_year = datetime.now().year
+        mapping = {
+            'TS': str(current_year),
+            'TS-1': str(current_year - 1),
+            'TS-2': str(current_year - 2)
+        }
+
+        for sheet_name, df in all_sheets.items():
+            print(f"Memproses sheet: '{sheet_name}'...")
             
-            # Menghapus baris yang sepenuhnya kosong (opsional, agar JSON lebih bersih)
+            # 4. Pembersihan Data & Konversi Otomatis
             df = df.dropna(how='all')
             
-            # Mengonversi DataFrame ke bentuk List of Dictionaries (JSON)
-            # orient='records' otomatis menjadikan baris pertama (header) sebagai Key JSON
+            # Logika Konversi Tahun (jika kolom 'tahun' ada)
+            if 'tahun' in df.columns:
+                df['tahun'] = df['tahun'].replace(mapping)
+                print(f"    -> Konversi tahun selesai untuk sheet '{sheet_name}'.")
+
+            # Mengonversi DataFrame ke JSON
             data_json = df.to_dict(orient='records')
             
-            # Menentukan nama file JSON output berdasarkan nama sheet-nya
-            # Karakter spasi pada nama sheet diganti dengan underscore (_) agar nama file lebih aman
-            nama_file_json = f"{sheet_name.replace(' ', '_')}.json"
+            # Menentukan path output ke folder github-data
+            nama_file_json = f"{sheet_name}.json"
+            path_output_lengkap = os.path.join(target_output_dir, nama_file_json)
             
-            # 4. Menyimpan data ke dalam file JSON
-            with open(nama_file_json, 'w', encoding='utf-8') as f:
-                # indent=4 membuat format JSON menjadi rapi (pretty-print) dan mudah dibaca manusia
-                # ensure_ascii=False menjaga agar karakter unik/aksen tidak berubah format
+            # 5. Menyimpan data
+            with open(path_output_lengkap, 'w', encoding='utf-8') as f:
                 json.dump(data_json, f, indent=4, ensure_ascii=False)
                 
-            print(f"    -> BERHASIL disimpan sebagai: '{nama_file_json}'")
-            indeks += 1
+            print(f"    -> Berhasil disimpan: {path_output_lengkap}")
             
-        print(f"\nSelesai! {total_sheet} sheet berhasil diekstrak menjadi file JSON terpisah.")
+        print(f"\nBERHASIL! Semua sheet telah dikonversi ke JSON.")
         
     except Exception as e:
         print(f"\nTerjadi kesalahan saat memproses file Excel: {str(e)}")

@@ -8,7 +8,7 @@
 export const IS_DEV = import.meta.env.MODE === 'development'
 
 export const GITHUB_BASE =
-  'https://raw.githubusercontent.com/imaduddin-stack/teupgris/refs/heads/main'
+  'https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data'
 
 // Paths used by useGithubData hook
 export const DATA_PATHS = {

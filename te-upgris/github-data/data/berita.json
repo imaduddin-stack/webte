@@ -1,62 +1,62 @@
 [
-  {
-    "id": 1,
-    "judul": "Mahasiswa TE UPGRIS Raih Juara 1 Kontes Robot Indonesia 2025",
-    "kategori": "Prestasi",
-    "tanggal": "2025-11-15",
-    "ringkasan": "Tim mahasiswa Teknik Elektro UPGRIS berhasil meraih Juara 1 pada ajang Kontes Robot Indonesia tingkat nasional yang diselenggarakan di Surabaya.",
-    "penulis": "Admin Prodi",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=75",
-    "contentUrl": "/content/berita/berita-1.md"
-  },
-  {
-    "id": 2,
-    "judul": "Dosen TE UPGRIS Publikasikan Penelitian di Jurnal Q1 IEEE",
-    "kategori": "Penelitian",
-    "tanggal": "2025-10-20",
-    "ringkasan": "Dr. Eng. Agus Setiawan berhasil mempublikasikan hasil penelitian Smart Grid berbasis AI di IEEE Transactions on Power Systems, jurnal terindeks Scopus Q1.",
-    "penulis": "Admin Prodi",
-    "image": "https://images.unsplash.com/photo-1532094349884-543559c3661a?w=800&q=75",
-    "contentUrl": "/content/berita/berita-2.md"
-  },
-  {
-    "id": 3,
-    "judul": "Kerjasama MoU dengan PT PLN (Persero) Resmi Ditandatangani",
-    "kategori": "Kerjasama",
-    "tanggal": "2025-09-05",
-    "ringkasan": "Program Studi Teknik Elektro UPGRIS resmi menjalin kerjasama dengan PT PLN (Persero) untuk program magang, penelitian bersama, dan rekrutmen lulusan.",
-    "penulis": "Humas Prodi",
-    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=75",
-    "contentUrl": null
-  },
-  {
-    "id": 4,
-    "judul": "Workshop IoT & Industri 4.0 Bersama Siemens Indonesia",
-    "kategori": "Akademik",
-    "tanggal": "2025-08-18",
-    "ringkasan": "Prodi TE UPGRIS menyelenggarakan workshop dua hari bertema Implementasi IoT di Industri 4.0 bekerja sama dengan Siemens Indonesia untuk mahasiswa semester 5 dan 6.",
-    "penulis": "Admin Prodi",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=75",
-    "contentUrl": "/content/berita/berita-4.md"
-  },
-  {
-    "id": 5,
-    "judul": "Pengabdian Masyarakat: Instalasi PLTS di Desa Wisata Bandungan",
-    "kategori": "Pengabdian",
-    "tanggal": "2025-07-10",
-    "ringkasan": "Tim dosen dan mahasiswa TE UPGRIS berhasil menginstalasi sistem panel surya 5kWp di Desa Wisata Bandungan, memberikan akses listrik bersih bagi warga.",
-    "penulis": "Admin Prodi",
-    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=75",
-    "contentUrl": null
-  },
-  {
-    "id": 6,
-    "judul": "Wisuda 2025: 45 Lulusan Teknik Elektro Siap Terjun ke Industri",
-    "kategori": "Akademik",
-    "tanggal": "2025-06-28",
-    "ringkasan": "Sebanyak 45 mahasiswa Teknik Elektro UPGRIS resmi diwisuda pada periode Juli 2025 dengan IPK rata-rata 3.35 dan masa studi rata-rata 4 tahun.",
-    "penulis": "Humas Prodi",
-    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=75",
-    "contentUrl": null
-  }
+    {
+        "id": 1,
+        "judul": "Mahasiswa TE UPGRIS Raih Juara 1 Kontes Robot Indonesia 2025",
+        "kategori": "Prestasi",
+        "tanggal": "2025-11-15",
+        "ringkasan": "Tim mahasiswa Teknik Elektro UPGRIS berhasil meraih Juara 1 pada ajang Kontes Robot Indonesia tingkat nasional yang diselenggarakan di Surabaya.",
+        "penulis": "Admin Prodi",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=75",
+        "contentUrl": "/content/berita/berita-1.md"
+    },
+    {
+        "id": 2,
+        "judul": "Dosen TE UPGRIS Publikasikan Penelitian di Jurnal Q1 IEEE",
+        "kategori": "Penelitian",
+        "tanggal": "2025-10-20",
+        "ringkasan": "Dr. Eng. Agus Setiawan berhasil mempublikasikan hasil penelitian Smart Grid berbasis AI di IEEE Transactions on Power Systems, jurnal terindeks Scopus Q1.",
+        "penulis": "Admin Prodi",
+        "image": "https://images.unsplash.com/photo-1532094349884-543559c3661a?w=800&q=75",
+        "contentUrl": "/content/berita/berita-2.md"
+    },
+    {
+        "id": 3,
+        "judul": "Kerjasama MoU dengan PT PLN (Persero) Resmi Ditandatangani",
+        "kategori": "Kerjasama",
+        "tanggal": "2025-09-05",
+        "ringkasan": "Program Studi Teknik Elektro UPGRIS resmi menjalin kerjasama dengan PT PLN (Persero) untuk program magang, penelitian bersama, dan rekrutmen lulusan.",
+        "penulis": "Humas Prodi",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=75",
+        "contentUrl": NaN
+    },
+    {
+        "id": 4,
+        "judul": "Workshop IoT & Industri 4.0 Bersama Siemens Indonesia",
+        "kategori": "Akademik",
+        "tanggal": "2025-08-18",
+        "ringkasan": "Prodi TE UPGRIS menyelenggarakan workshop dua hari bertema Implementasi IoT di Industri 4.0 bekerja sama dengan Siemens Indonesia untuk mahasiswa semester 5 dan 6.",
+        "penulis": "Admin Prodi",
+        "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=75",
+        "contentUrl": "/content/berita/berita-4.md"
+    },
+    {
+        "id": 5,
+        "judul": "Pengabdian Masyarakat: Instalasi PLTS di Desa Wisata Bandungan",
+        "kategori": "Pengabdian",
+        "tanggal": "2025-07-10",
+        "ringkasan": "Tim dosen dan mahasiswa TE UPGRIS berhasil menginstalasi sistem panel surya 5kWp di Desa Wisata Bandungan, memberikan akses listrik bersih bagi warga.",
+        "penulis": "Admin Prodi",
+        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=75",
+        "contentUrl": NaN
+    },
+    {
+        "id": 6,
+        "judul": "Wisuda 2025: 45 Lulusan Teknik Elektro Siap Terjun ke Industri",
+        "kategori": "Akademik",
+        "tanggal": "2025-06-28",
+        "ringkasan": "Sebanyak 45 mahasiswa Teknik Elektro UPGRIS resmi diwisuda pada periode Juli 2025 dengan IPK rata-rata 3.35 dan masa studi rata-rata 4 tahun.",
+        "penulis": "Humas Prodi",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=75",
+        "contentUrl": NaN
+    }
 ]

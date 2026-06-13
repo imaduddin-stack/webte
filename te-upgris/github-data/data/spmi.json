@@ -1,12 +1,82 @@
 [
-  { "id":1, "nama":"Kebijakan Mutu Program Studi Teknik Elektro", "nomor":"KM-TE-001/2024", "kategori":"Kebijakan Mutu", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_1" },
-  { "id":2, "nama":"Standar Kompetensi Lulusan (SKL)", "nomor":"SM-TE-001/2024", "kategori":"Standar Mutu", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_2" },
-  { "id":3, "nama":"Standar Isi Pembelajaran", "nomor":"SM-TE-002/2024", "kategori":"Standar Mutu", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_3" },
-  { "id":4, "nama":"Standar Proses Pembelajaran", "nomor":"SM-TE-003/2024", "kategori":"Standar Mutu", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_4" },
-  { "id":5, "nama":"SOP Penyusunan Rencana Pembelajaran Semester (RPS)", "nomor":"SOP-TE-001/2024", "kategori":"SOP", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_5" },
-  { "id":6, "nama":"SOP Penyelenggaraan Ujian Akhir Semester", "nomor":"SOP-TE-002/2024", "kategori":"SOP", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_6" },
-  { "id":7, "nama":"SOP Pembimbingan Skripsi & Capstone Design", "nomor":"SOP-TE-003/2024", "kategori":"SOP", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_7" },
-  { "id":8, "nama":"Formulir Pengajuan Judul Skripsi", "nomor":"FM-TE-001", "kategori":"Formulir", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_8" },
-  { "id":9, "nama":"Formulir Permohonan Kerja Praktek", "nomor":"FM-TE-002", "kategori":"Formulir", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_9" },
-  { "id":10,"nama":"Laporan Audit Mutu Internal 2024", "nomor":"AMI-TE-2024", "kategori":"Laporan AMI", "tahun":"2024", "fileUrl":"https://drive.google.com/file/d/dummy_spmi_10" }
+    {
+        "id": 1,
+        "nama": "Kebijakan Mutu Program Studi Teknik Elektro",
+        "nomor": "KM-TE-001/2024",
+        "kategori": "Kebijakan Mutu",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_1"
+    },
+    {
+        "id": 2,
+        "nama": "Standar Kompetensi Lulusan (SKL)",
+        "nomor": "SM-TE-001/2024",
+        "kategori": "Standar Mutu",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_2"
+    },
+    {
+        "id": 3,
+        "nama": "Standar Isi Pembelajaran",
+        "nomor": "SM-TE-002/2024",
+        "kategori": "Standar Mutu",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_3"
+    },
+    {
+        "id": 4,
+        "nama": "Standar Proses Pembelajaran",
+        "nomor": "SM-TE-003/2024",
+        "kategori": "Standar Mutu",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_4"
+    },
+    {
+        "id": 5,
+        "nama": "SOP Penyusunan Rencana Pembelajaran Semester (RPS)",
+        "nomor": "SOP-TE-001/2024",
+        "kategori": "SOP",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_5"
+    },
+    {
+        "id": 6,
+        "nama": "SOP Penyelenggaraan Ujian Akhir Semester",
+        "nomor": "SOP-TE-002/2024",
+        "kategori": "SOP",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_6"
+    },
+    {
+        "id": 7,
+        "nama": "SOP Pembimbingan Skripsi & Capstone Design",
+        "nomor": "SOP-TE-003/2024",
+        "kategori": "SOP",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_7"
+    },
+    {
+        "id": 8,
+        "nama": "Formulir Pengajuan Judul Skripsi",
+        "nomor": "FM-TE-001",
+        "kategori": "Formulir",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_8"
+    },
+    {
+        "id": 9,
+        "nama": "Formulir Permohonan Kerja Praktek",
+        "nomor": "FM-TE-002",
+        "kategori": "Formulir",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_9"
+    },
+    {
+        "id": 10,
+        "nama": "Laporan Audit Mutu Internal 2024",
+        "nomor": "AMI-TE-2024",
+        "kategori": "Laporan AMI",
+        "tahun": 2024,
+        "fileUrl": "https://drive.google.com/file/d/dummy_spmi_10"
+    }
 ]

@@ -1,38 +1,38 @@
 [
-  {
-    "id": 1,
-    "judul": "Instalasi Panel Surya & Pelatihan Energi Terbarukan untuk UMKM Semarang Tengah",
-    "dosen": "Muhamad Fauzi, S.T., M.T.",
-    "tahun": "TS",
-    "jenis": "PkM",
-    "dana": "Rp 30.000.000",
-    "sumber": "Internal Lembaga",
-    "roadmap": "Energi Terbarukan Komunitas",
-    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
-    "contentUrl": "/content/pkm/pkm-1.md"
-  },
-  {
-    "id": 2,
-    "judul": "Pelatihan Programmable Logic Controller (PLC) untuk Teknisi Industri Jawa Tengah",
-    "dosen": "Ir. Budi Hartono, S.T., M.Eng.",
-    "tahun": "TS",
-    "jenis": "PkM",
-    "dana": "Rp 25.000.000",
-    "sumber": "Dikti",
-    "roadmap": "Literasi Teknologi Industri",
-    "image": null,
-    "contentUrl": null
-  },
-  {
-    "id": 3,
-    "judul": "Pendampingan Elektrifikasi Rumah Adat di Desa Wisata Kabupaten Semarang",
-    "dosen": "Drs. Hendra Kusuma, M.T.",
-    "tahun": "TS-1",
-    "jenis": "PkM",
-    "dana": "Rp 20.000.000",
-    "sumber": "Internal Lembaga",
-    "roadmap": "Elektrifikasi Pedesaan",
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=70",
-    "contentUrl": null
-  }
+    {
+        "id": 1,
+        "judul": "Instalasi Panel Surya & Pelatihan Energi Terbarukan untuk UMKM Semarang Tengah",
+        "dosen": "Muhamad Fauzi, S.T., M.T.",
+        "tahun": "2026",
+        "jenis": "PkM",
+        "dana": "Rp 30.000.000",
+        "sumber": "Internal Lembaga",
+        "roadmap": "Energi Terbarukan Komunitas",
+        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
+        "contentUrl": "/content/pkm/pkm-1.md"
+    },
+    {
+        "id": 2,
+        "judul": "Pelatihan Programmable Logic Controller (PLC) untuk Teknisi Industri Jawa Tengah",
+        "dosen": "Ir. Budi Hartono, S.T., M.Eng.",
+        "tahun": "2026",
+        "jenis": "PkM",
+        "dana": "Rp 25.000.000",
+        "sumber": "Dikti",
+        "roadmap": "Literasi Teknologi Industri",
+        "image": NaN,
+        "contentUrl": NaN
+    },
+    {
+        "id": 3,
+        "judul": "Pendampingan Elektrifikasi Rumah Adat di Desa Wisata Kabupaten Semarang",
+        "dosen": "Drs. Hendra Kusuma, M.T.",
+        "tahun": "2025",
+        "jenis": "PkM",
+        "dana": "Rp 20.000.000",
+        "sumber": "Internal Lembaga",
+        "roadmap": "Elektrifikasi Pedesaan",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=70",
+        "contentUrl": NaN
+    }
 ]

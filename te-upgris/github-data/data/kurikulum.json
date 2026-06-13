@@ -1,0 +1,335 @@
+[
+    {
+        "id": 1,
+        "kode": "TE101",
+        "nama": "Matematika Teknik I",
+        "sks": 3,
+        "semester": 1,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_1"
+    },
+    {
+        "id": 2,
+        "kode": "TE102",
+        "nama": "Fisika Teknik",
+        "sks": 3,
+        "semester": 1,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_2"
+    },
+    {
+        "id": 3,
+        "kode": "TE103",
+        "nama": "Dasar Teknik Elektro",
+        "sks": 3,
+        "semester": 1,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_3"
+    },
+    {
+        "id": 4,
+        "kode": "TE104",
+        "nama": "Kimia Teknik",
+        "sks": 2,
+        "semester": 1,
+        "tipe": "Pendukung",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 5,
+        "kode": "TE105",
+        "nama": "Bahasa Indonesia Teknik",
+        "sks": 2,
+        "semester": 1,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_5"
+    },
+    {
+        "id": 6,
+        "kode": "TE106",
+        "nama": "Pendidikan Agama",
+        "sks": 2,
+        "semester": 1,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_6"
+    },
+    {
+        "id": 7,
+        "kode": "TE201",
+        "nama": "Matematika Teknik II",
+        "sks": 3,
+        "semester": 2,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_7"
+    },
+    {
+        "id": 8,
+        "kode": "TE202",
+        "nama": "Rangkaian Listrik I",
+        "sks": 3,
+        "semester": 2,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_8"
+    },
+    {
+        "id": 9,
+        "kode": "TE203",
+        "nama": "Elektronika I",
+        "sks": 3,
+        "semester": 2,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_9"
+    },
+    {
+        "id": 10,
+        "kode": "TE204",
+        "nama": "Algoritma & Pemrograman",
+        "sks": 3,
+        "semester": 2,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_10"
+    },
+    {
+        "id": 11,
+        "kode": "TE205",
+        "nama": "Pancasila & Kewarganegaraan",
+        "sks": 2,
+        "semester": 2,
+        "tipe": "Pendukung",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 12,
+        "kode": "TE301",
+        "nama": "Rangkaian Listrik II",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_12"
+    },
+    {
+        "id": 13,
+        "kode": "TE302",
+        "nama": "Elektronika II",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_13"
+    },
+    {
+        "id": 14,
+        "kode": "TE303",
+        "nama": "Medan Elektromagnetik",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_14"
+    },
+    {
+        "id": 15,
+        "kode": "TE304",
+        "nama": "Mesin Listrik I",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_15"
+    },
+    {
+        "id": 16,
+        "kode": "TE305",
+        "nama": "Pengukuran & Instrumentasi",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_16"
+    },
+    {
+        "id": 17,
+        "kode": "TE401",
+        "nama": "Mesin Listrik II",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_17"
+    },
+    {
+        "id": 18,
+        "kode": "TE402",
+        "nama": "Sistem Kontrol",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_18"
+    },
+    {
+        "id": 19,
+        "kode": "TE403",
+        "nama": "Elektronika Daya",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_19"
+    },
+    {
+        "id": 20,
+        "kode": "TE404",
+        "nama": "Mikrokontroler",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_20"
+    },
+    {
+        "id": 21,
+        "kode": "TE405",
+        "nama": "Teknik Tegangan Tinggi",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 22,
+        "kode": "TE501",
+        "nama": "Sistem Tenaga Listrik",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_22"
+    },
+    {
+        "id": 23,
+        "kode": "TE502",
+        "nama": "Sistem Telekomunikasi",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_23"
+    },
+    {
+        "id": 24,
+        "kode": "TE503",
+        "nama": "PLC & SCADA",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_24"
+    },
+    {
+        "id": 25,
+        "kode": "TE504",
+        "nama": "Internet of Things",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_25"
+    },
+    {
+        "id": 26,
+        "kode": "TE505",
+        "nama": "Kewirausahaan Teknik",
+        "sks": 2,
+        "semester": 5,
+        "tipe": "Pendukung",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 27,
+        "kode": "TE601",
+        "nama": "Energi Terbarukan",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_27"
+    },
+    {
+        "id": 28,
+        "kode": "TE602",
+        "nama": "Robotika & Otomasi Industri",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_28"
+    },
+    {
+        "id": 29,
+        "kode": "TE603",
+        "nama": "Pemrosesan Sinyal Digital",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_29"
+    },
+    {
+        "id": 30,
+        "kode": "TE604",
+        "nama": "Kerja Praktek",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "Pendukung",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 31,
+        "kode": "TE605",
+        "nama": "Metodologi Penelitian",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "Pendukung",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_31"
+    },
+    {
+        "id": 32,
+        "kode": "TE701",
+        "nama": "Sistem Proteksi Tenaga Listrik",
+        "sks": 3,
+        "semester": 7,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_32"
+    },
+    {
+        "id": 33,
+        "kode": "TE702",
+        "nama": "Konservasi & Audit Energi",
+        "sks": 3,
+        "semester": 7,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_33"
+    },
+    {
+        "id": 34,
+        "kode": "TE703",
+        "nama": "Kapstone Design I",
+        "sks": 3,
+        "semester": 7,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_34"
+    },
+    {
+        "id": 35,
+        "kode": "TE704",
+        "nama": "Etika Profesi Insinyur",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "Pendukung",
+        "rpsUrl": NaN
+    },
+    {
+        "id": 36,
+        "kode": "TE801",
+        "nama": "Kapstone Design II",
+        "sks": 4,
+        "semester": 8,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": "https://drive.google.com/file/d/dummy_rps_36"
+    },
+    {
+        "id": 37,
+        "kode": "TE802",
+        "nama": "Skripsi",
+        "sks": 6,
+        "semester": 8,
+        "tipe": "Kompetensi Utama",
+        "rpsUrl": NaN
+    }
+]
