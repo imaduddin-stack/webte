@@ -1,86 +1,156 @@
 [
     {
         "id": 1,
-        "nama": "PT PLN (Persero)",
+        "nama": "CV Standar",
         "jenis": "BUMN",
-        "judul": "Program Magang & Rekrutmen Lulusan",
-        "tingkat": "Nasional"
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
     },
     {
         "id": 2,
-        "nama": "Siemens Indonesia",
+        "nama": "PT Autonics Indonesia",
         "jenis": "Industri",
-        "judul": "Workshop IoT & Industri 4.0",
-        "tingkat": "Internasional"
+        "judul": "Pelatihan dan Pengabdian",
+        "tingkat": "Nasional"
     },
     {
         "id": 3,
-        "nama": "PT Schneider Electric Indonesia",
+        "nama": "PT. AUTENTIK KARYA ANALITIKA",
         "jenis": "Industri",
-        "judul": "Penyediaan Perangkat Lab & Pelatihan",
-        "tingkat": "Internasional"
+        "judul": "Magang Industri",
+        "tingkat": "Nasional"
     },
     {
         "id": 4,
-        "nama": "PDAM Tirta Moedal Semarang",
+        "nama": "PT Norgantara",
         "jenis": "BUMD",
-        "judul": "Penelitian Efisiensi Pompa Listrik",
-        "tingkat": "Lokal"
+        "judul": "Pelatihan dan Pengabdian",
+        "tingkat": "Nasional"
     },
     {
         "id": 5,
-        "nama": "Universiti Teknologi Malaysia (UTM)",
+        "nama": "Guangxi Modern Polytechnic College",
         "jenis": "Akademik",
-        "judul": "Joint Research & Student Exchange",
+        "judul": "Colaborative Teaching",
         "tingkat": "Internasional"
     },
     {
         "id": 6,
-        "nama": "PT Pertamina EP",
+        "nama": "PT Mitra Daya Teknika",
         "jenis": "BUMN",
-        "judul": "Penelitian Instrumentasi Kilang",
+        "judul": "Magang Industri",
         "tingkat": "Nasional"
     },
     {
         "id": 7,
-        "nama": "BRIN (Badan Riset Inovasi Nasional)",
+        "nama": "SMU Setia Budi",
         "jenis": "Pemerintah",
-        "judul": "Kolaborasi Riset Energi Terbarukan",
-        "tingkat": "Nasional"
+        "judul": "Kerjasama Pendidikan",
+        "tingkat": "Wilayah"
     },
     {
         "id": 8,
-        "nama": "SMK Negeri 4 Semarang",
-        "jenis": "Pendidikan",
-        "judul": "Program Guru Tamu & Magang Dosen",
-        "tingkat": "Lokal"
+        "nama": "Universiti Teknologi Malaysia",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
+        "tingkat": "Internasional"
     },
     {
         "id": 9,
-        "nama": "PT ABB Indonesia",
-        "jenis": "Industri",
-        "judul": "Sertifikasi & Pelatihan Teknik Kontrol",
+        "nama": "Neijiang Vocational and Technical College China",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
         "tingkat": "Internasional"
     },
     {
         "id": 10,
-        "nama": "Pemkot Semarang - Dinas ESDM",
+        "nama": "PT. FHG",
         "jenis": "Pemerintah",
-        "judul": "Pendampingan Audit Energi Kota",
-        "tingkat": "Lokal"
-    },
-    {
-        "id": 11,
-        "nama": "IEEE Indonesia Section",
-        "jenis": "Asosiasi Profesi",
-        "judul": "Anggota & Penyelenggara Konferensi",
+        "judul": "Magang Industri",
         "tingkat": "Internasional"
     },
     {
-        "id": 12,
-        "nama": "Asosiasi Profesi Insinyur Indonesia (PII)",
+        "id": 11,
+        "nama": "Universitas Muhammadiyah Semarang",
         "jenis": "Asosiasi Profesi",
-        "judul": "Sertifikasi Kompetensi Dosen & Lulusan",
+        "judul": "Colaborative Teaching",
         "tingkat": "Nasional"
+    },
+    {
+        "id": 12,
+        "nama": "Universitas Teknologi Yogyakarta",
+        "jenis": "Asosiasi Profesi",
+        "judul": "Kunjungan Benchmark ",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 13,
+        "nama": "LSK GEMA PEDEKABE",
+        "jenis": "Lembaga Sertifikasi",
+        "judul": "Colaborative Teaching",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 14,
+        "nama": "Laksana Bus",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 15,
+        "nama": "Iloilo Science and Technology University",
+        "jenis": "Akademik",
+        "judul": "Student Exchange",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 16,
+        "nama": "CV. Bintang Anugerah Elektrik",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 17,
+        "nama": "PT. Omni Electrindo",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 18,
+        "nama": "NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "jenis": "Akademik",
+        "judul": "Pertukaran dosen dan mahasiswa",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 19,
+        "nama": "XXVTC ( Xinxiang Vocational and Technical College)",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 20,
+        "nama": "PT. AUTENTIK KARYA ANALITIKA",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 21,
+        "nama": "PT Nocola IoT Solution",
+        "jenis": "Industri",
+        "judul": "Mitra DUDI Penyusunan Kurikulum",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 22,
+        "nama": "PT. Asia Pacific Fibers Tbk.",
+        "jenis": "Industri",
+        "judul": "Mitra DUDI Penyusunan Kurikulum",
+        "tingkat": "Wilayah"
     }
 ]
