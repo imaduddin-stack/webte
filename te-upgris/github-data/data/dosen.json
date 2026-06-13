@@ -10,7 +10,7 @@
         "sertifikasi": "PII, Sertifikasi Dosen",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123456",
         "scholar": "https://scholar.google.com/citations?user=dummy1",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -24,7 +24,7 @@
         "sertifikasi": "BNSP Teknik Elektronika",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123457",
         "scholar": "https://scholar.google.com/citations?user=dummy2",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -38,7 +38,7 @@
         "sertifikasi": "Cisco CCNA",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123458",
         "scholar": "https://scholar.google.com/citations?user=dummy3",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -52,7 +52,7 @@
         "sertifikasi": "PII",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123459",
         "scholar": "https://scholar.google.com/citations?user=dummy4",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -66,7 +66,7 @@
         "sertifikasi": "BNSP IoT",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123460",
         "scholar": "https://scholar.google.com/citations?user=dummy5",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -80,7 +80,7 @@
         "sertifikasi": "Auditor Energi BNSP",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123461",
         "scholar": "https://scholar.google.com/citations?user=dummy6",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -94,7 +94,7 @@
         "sertifikasi": "BNSP Robotik",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123462",
         "scholar": "https://scholar.google.com/citations?user=dummy7",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     },
     {
@@ -108,7 +108,7 @@
         "sertifikasi": "Google TensorFlow Developer",
         "sinta": "https://sinta.kemdikbud.go.id/authors/profile/123463",
         "scholar": "https://scholar.google.com/citations?user=dummy8",
-        "foto": NaN,
+        "foto": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=600&q=70",
         "kategori": "DTPS"
     }
 ]
