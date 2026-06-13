@@ -41,6 +41,9 @@ def konversi_excel_ke_json():
             # 4. Pembersihan Data & Konversi Otomatis
             df = df.dropna(how='all')
             
+            # Mengganti NaN/NaT dengan None agar menjadi null di JSON
+            df = df.where(pd.notnull(df), None)
+
             # Logika Konversi Tahun (jika kolom 'tahun' ada)
             if 'tahun' in df.columns:
                 df['tahun'] = df['tahun'].replace(mapping)
