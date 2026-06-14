@@ -12,7 +12,7 @@
         "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=75",
         "imageGallery": "[]",
         "contentUrl": "/content/capstone/capstone-1.md",
-        "demoUrl": null,
+        "demoUrl": NaN,
         "laporanUrl": "https://drive.google.com/file/d/dummy_laporan_c1"
     },
     {
@@ -28,7 +28,7 @@
         "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=75",
         "imageGallery": "[]",
         "contentUrl": "/content/capstone/capstone-2.md",
-        "demoUrl": null,
+        "demoUrl": NaN,
         "laporanUrl": "https://drive.google.com/file/d/dummy_laporan_c2"
     },
     {
@@ -60,7 +60,7 @@
         "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&q=75",
         "imageGallery": "[]",
         "contentUrl": "/content/capstone/capstone-4.md",
-        "demoUrl": null,
+        "demoUrl": NaN,
         "laporanUrl": "https://drive.google.com/file/d/dummy_laporan_c4"
     },
     {
@@ -75,8 +75,8 @@
         "abstrak": "Perangkat portable untuk pengukuran parameter kualitas daya listrik (THD, daya reaktif, faktor daya) dengan display touchscreen dan logging data ke microSD.",
         "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=75",
         "imageGallery": "[]",
-        "contentUrl": null,
-        "demoUrl": null,
+        "contentUrl": NaN,
+        "demoUrl": NaN,
         "laporanUrl": "https://drive.google.com/file/d/dummy_laporan_c5"
     },
     {
@@ -92,7 +92,7 @@
         "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&q=75",
         "imageGallery": "[]",
         "contentUrl": "/content/capstone/capstone-6.md",
-        "demoUrl": null,
+        "demoUrl": NaN,
         "laporanUrl": "https://drive.google.com/file/d/dummy_laporan_c6"
     }
 ]

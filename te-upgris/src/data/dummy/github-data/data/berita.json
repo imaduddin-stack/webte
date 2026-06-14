@@ -27,7 +27,7 @@
         "ringkasan": "Program Studi Teknik Elektro UPGRIS resmi menjalin kerjasama dengan PT PLN (Persero) untuk program magang, penelitian bersama, dan rekrutmen lulusan.",
         "penulis": "Humas Prodi",
         "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=75",
-        "contentUrl": null
+        "contentUrl": NaN
     },
     {
         "id": 4,
@@ -47,7 +47,7 @@
         "ringkasan": "Tim dosen dan mahasiswa TE UPGRIS berhasil menginstalasi sistem panel surya 5kWp di Desa Wisata Bandungan, memberikan akses listrik bersih bagi warga.",
         "penulis": "Admin Prodi",
         "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=75",
-        "contentUrl": null
+        "contentUrl": NaN
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "ringkasan": "Sebanyak 45 mahasiswa Teknik Elektro UPGRIS resmi diwisuda pada periode Juli 2025 dengan IPK rata-rata 3.35 dan masa studi rata-rata 4 tahun.",
         "penulis": "Humas Prodi",
         "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=75",
-        "contentUrl": null
+        "contentUrl": NaN
     }
 ]

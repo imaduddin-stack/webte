@@ -10,7 +10,7 @@
         "sertifikasi": "PII, Sertifikasi Dosen",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6093223",
         "scholar": "https://scholar.google.com/citations?user=pUC2OpkAAAAJ&hl=id",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -18,13 +18,13 @@
         "nama": "Ir. Margono, ST, M.Eng",
         "nidn": 627046102,
         "jabatan": "Lektor",
-        "bidang": "Ketenagalistrikan & Elektronika Daya",
+        "bidang": "Elektronika & Sistem Kontrol",
         "pendidikan": "Teknik Elektro, UGM / Tenaga Listrik",
-        "mataKuliah": "Rangkaian Listrik,Analisis Tenaga Listrik",
+        "mataKuliah": "Rangkaian Listrik,\nanalisis Tenaga Listrik",
         "sertifikasi": "BNSP Tenaga Listrik",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6081296",
         "scholar": "https://scholar.google.com/citations?hl=id&user=jkzdW3oAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -32,13 +32,13 @@
         "nama": "Ir. Muhammad Amiruddin, ST., M.Eng",
         "nidn": 621078403,
         "jabatan": "Lektor",
-        "bidang": "Sistem Kendali & Otomasi Industri",
+        "bidang": "Telekomunikasi & Jaringan",
         "pendidikan": "Teknik Elektro UGM / Sistem Kendali",
-        "mataKuliah": null,
+        "mataKuliah": NaN,
         "sertifikasi": "BNSP Otomasi Industri",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6705402",
         "scholar": "https://scholar.google.com/citations?hl=id&user=DalN47AAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -46,13 +46,13 @@
         "nama": "Ir. Imadudin Harjanto, S.T., M.Eng",
         "nidn": 603048001,
         "jabatan": "Lektor",
-        "bidang": "Jaringan komputer & Kecerdasan Buatan",
+        "bidang": "Instrumentasi & Pengukuran",
         "pendidikan": "Teknik Elektro, UGM / Jaringan Komputer",
         "mataKuliah": "Jaringan Komputer, Elektronika Digital, Matematika Diskret",
         "sertifikasi": "BNSP Otomasi Industri",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6729925",
         "scholar": "https://scholar.google.com/citations?hl=id&user=sx17Ot8AAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -60,13 +60,13 @@
         "nama": "Ir. Bambang Hadi Kunaryo, ST, MT",
         "nidn": 609067602,
         "jabatan": "Asisten Ahli",
-        "bidang": "Internet of Things & Komunikasi Data",
+        "bidang": "Internet of Things & Embedded Systems",
         "pendidikan": "Teknik Elektro, UNDIP / Telekomunikasi",
         "mataKuliah": "Dasar Telekomunikasi, Pengolahan Citra, Teknologi Informasi, Antarmuka dan Arsitektur Komputer, Jaringan komputer",
         "sertifikasi": "BNSP IoT",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6798124",
         "scholar": "https://scholar.google.com/citations?hl=id&user=2kR7e3UAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -77,10 +77,10 @@
         "bidang": "Energi Terbarukan & Efisiensi Energi",
         "pendidikan": "Fisika, UGM / Konversi Energi",
         "mataKuliah": "Konversi Energi",
-        "sertifikasi": null,
+        "sertifikasi": NaN,
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6141827",
         "scholar": "https://scholar.google.com/citations?hl=id&user=UR3xdmgAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -88,13 +88,13 @@
         "nama": "Dr. Sigit Ristanto",
         "nidn": 603098102,
         "jabatan": "Lektor",
-        "bidang": "Pengolahan Citra dan teknologi sensor",
-        "pendidikan": null,
+        "bidang": "Robotika & Otomasi",
+        "pendidikan": NaN,
         "mataKuliah": "Pengolahan Citra, sensor tranduser",
         "sertifikasi": "BNSP IoT",
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6081359",
         "scholar": "https://scholar.google.com/citations?hl=id&user=Em1A_ZYAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     },
     {
@@ -105,10 +105,10 @@
         "bidang": "Kecerdasan Buatan & Pemrosesan Sinyal",
         "pendidikan": "Fisika, UGM / Material Teknik",
         "mataKuliah": "Bahan-bahan Listrik, Sensor dan Tranduser, Fisika Listrik",
-        "sertifikasi": null,
+        "sertifikasi": NaN,
         "sinta": "https://sinta.kemdiktisaintek.go.id/authors/profile/6642413",
         "scholar": "https://scholar.google.com/citations?hl=id&user=lzDthZwAAAAJ",
-        "foto": null,
+        "foto": NaN,
         "kategori": "DTPS"
     }
 ]

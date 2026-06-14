@@ -1,0 +1,38 @@
+Design of Water Pump Station Control in Polder System using IoT and Hybrid Fuzzy Neural Network
+A Comprehensive Analysis of Mask Detection Using Convolutional Neural Networks (CNN) and Single Shot Multibox Detector (SSD) Approach
+Review Paper on Bluetooth Based Home Automation Using Android Phone
+Feasibility Study of Solar Power Generation System for Public Street Lighting
+The Potential of Mechanic Vibration for Generating Electric Energy
+Power Regulation on PV and Grid with Monitoring Load Power in Residential
+Multi-Inverter Coordinated Control on AC Microgrid for Increased Load Power
+Real-Time Microgrid For Submersible Pump Energy Consumption Based On Fuzzy Logic Controller
+Power management on DC microgrid with new DC coupling based on fuzzy logic
+Solar power and multi-battery for new configuration DC microgrid using centralized control
+Real-Time Microgrid Centralized Control For Consuming Water Pump
+Coordinated Control of AC Microgrid for Increase Load Power Using Multi-Inverter
+Enhancement DC Microgrid Power Stability with a Centralized
+Improvement the Capacity of Electrical Energy in Residential Using PV with On-Grid System
+Coordinated Control of Battery Energy Storage System Based on Fuzzy Logic for Microgrid with Modified AC Coupling Configuration
+Effectiveness of implementing deep learning approach using PBL with PhET simulation on students’ interest and collaboration
+Study on Local-Structure Symmetrization of K2XF6 Crystals Doped with Mn4+ Ions by First-Principles Calculations
+PROJECT-BASED LEARNING VIA TRADITIONAL GAME IN PHYSICS LEARNING: ITS IMPACT ON CRITICAL THINKING, CREATIVE THINKING, AND COLLABORATIVE SKILLS
+Comprehensive observations on pendulum oscillation using stereo vision
+Development of laboratory devices for real-time measurement of object 3D position using stereo cameras
+System and method for stereoscopic image acquisition
+3D Velocity Measurement of Translational Motion using a Stereo Camera
+Soft starter induction motor three phase with fuzzy logic controller inside delta
+Thermoacoustic design using stem of goose down stack
+Thickness optimization of a triple-layered microwave absorber combining magnetic and dielectric particles
+Digital Physics Module for 21st Century Education on New and Renewable Energy Based on the Dilemma-STEAM Learning Model
+The Effectiveness of the Dilemma-STEAM Learning Model Based on Motion Graphic Videos in the Subject of Parabolic Motion
+Development of educational videos on work and energy topics to support schoology based e-learning
+Revitalizing circular motion topic learning through android application based on transformative learning
+Preparation and Thickness Optimization of Graphenic-Based Carbon Material as a Microwave Absorber
+Thickness optimization of a double-layered microwave absorber combining magnetic and dielectric particles
+Chemical exfoliation and microwave absorption of reduced graphene oxide synthesized from old coconut shells
+EFFECT OF PRIME MOVER REGENERATOR RADIUS ON THE PERFORMANCE AND CHARACTERISTIC OF ACOUSTIC FIELD OF THERMOACOUSTIC REFRIGERATOR DRIVEN BY PRIME MOVER
+CONSTRUCTION AND TESTING OF SMALL-SCALE THERMOACOUSTIC ELECTRICITY GENERATOR WITH DIFFERENT HEATING POWER
+Numerical Study on the Effect of Stack Radii on the Low Onset Heating Temperature and Efficiency of 4-Stage Thermoacoustic Engine
+The effect of regenerator's radii on low heating temperature of 4-stage thermoacoustic engine utilizing solar and waste heat
+Study on the optimal stack diameter on the efficiency of thermoacoustic engine
+Performance of Thermoacoustic Cooler Driven by Thermoacoustic Engine with Different Flow Channel Radii

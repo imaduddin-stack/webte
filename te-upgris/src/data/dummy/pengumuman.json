@@ -1,52 +1,52 @@
 [
-  {
-    "id": 1,
-    "judul": "Pendaftaran Seminar Proposal Skripsi Semester Gasal 2025/2026",
-    "tanggal": "2025-11-01",
-    "deskripsi": "Mahasiswa yang telah memenuhi syarat akademik dapat mendaftar seminar proposal skripsi mulai 1 November hingga 30 November 2025.",
-    "kategori": "Tugas Akhir",
-    "image": null,
-    "contentUrl": "/content/pengumuman/pengumuman-1.md",
-    "lampiran": "https://drive.google.com/file/d/dummy_lampiran_1"
-  },
-  {
-    "id": 2,
-    "judul": "Jadwal UAS Semester Gasal 2025/2026",
-    "tanggal": "2025-12-01",
-    "deskripsi": "Ujian Akhir Semester Gasal 2025/2026 akan dilaksanakan pada 15–26 Desember 2025. Mahasiswa wajib membawa KTM dan sudah melunasi UKT.",
-    "kategori": "Akademik",
-    "image": null,
-    "contentUrl": null,
-    "lampiran": "https://drive.google.com/file/d/dummy_jadwal_uas"
-  },
-  {
-    "id": 3,
-    "judul": "Informasi Beasiswa Unggulan Kemendikbud 2025",
-    "tanggal": "2025-10-15",
-    "deskripsi": "Prodi membuka pendaftaran rekomendasi beasiswa unggulan Kemendikbud bagi mahasiswa aktif semester 3–6 dengan IPK minimal 3.20.",
-    "kategori": "Kemahasiswaan",
-    "image": null,
-    "contentUrl": "/content/pengumuman/pengumuman-3.md",
-    "lampiran": null
-  },
-  {
-    "id": 4,
-    "judul": "Kebijakan Baru: Ketentuan Perwalian Online Semester Genap 2025/2026",
-    "tanggal": "2025-09-20",
-    "deskripsi": "Mulai semester genap 2025/2026 seluruh proses perwalian akademik dilakukan secara online melalui SIM Akademik UPGRIS.",
-    "kategori": "Kebijakan",
-    "image": null,
-    "contentUrl": null,
-    "lampiran": null
-  },
-  {
-    "id": 5,
-    "judul": "Pendaftaran Kerja Praktek Semester Gasal 2025/2026",
-    "tanggal": "2025-08-10",
-    "deskripsi": "Mahasiswa semester 6 yang berencana mengambil Kerja Praktek wajib mendaftar melalui portal akademik dan menyerahkan proposal KP kepada prodi.",
-    "kategori": "Akademik",
-    "image": null,
-    "contentUrl": null,
-    "lampiran": "https://drive.google.com/file/d/dummy_form_kp"
-  }
+    {
+        "id": 1,
+        "judul": "Pendaftaran Seminar Proposal Skripsi Semester Gasal 2025/2026",
+        "tanggal": "2025-11-01",
+        "deskripsi": "Mahasiswa yang telah memenuhi syarat akademik dapat mendaftar seminar proposal skripsi mulai 1 November hingga 30 November 2025.",
+        "kategori": "Tugas Akhir",
+        "image": null,
+        "contentUrl": "/content/pengumuman/pengumuman-1.md",
+        "lampiran": "https://drive.google.com/file/d/dummy_lampiran_1"
+    },
+    {
+        "id": 2,
+        "judul": "Jadwal UAS Semester Gasal 2025/2026",
+        "tanggal": "2025-12-01",
+        "deskripsi": "Ujian Akhir Semester Gasal 2025/2026 akan dilaksanakan pada 15–26 Desember 2025. Mahasiswa wajib membawa KTM dan sudah melunasi UKT.",
+        "kategori": "Akademik",
+        "image": null,
+        "contentUrl": null,
+        "lampiran": "https://drive.google.com/file/d/dummy_jadwal_uas"
+    },
+    {
+        "id": 3,
+        "judul": "Informasi Beasiswa Unggulan Kemendikbud 2025",
+        "tanggal": "2025-10-15",
+        "deskripsi": "Prodi membuka pendaftaran rekomendasi beasiswa unggulan Kemendikbud bagi mahasiswa aktif semester 3–6 dengan IPK minimal 3.20.",
+        "kategori": "Kemahasiswaan",
+        "image": null,
+        "contentUrl": "/content/pengumuman/pengumuman-3.md",
+        "lampiran": null
+    },
+    {
+        "id": 4,
+        "judul": "Kebijakan Baru: Ketentuan Perwalian Online Semester Genap 2025/2026",
+        "tanggal": "2025-09-20",
+        "deskripsi": "Mulai semester genap 2025/2026 seluruh proses perwalian akademik dilakukan secara online melalui SIM Akademik UPGRIS.",
+        "kategori": "Kebijakan",
+        "image": null,
+        "contentUrl": null,
+        "lampiran": null
+    },
+    {
+        "id": 5,
+        "judul": "Pendaftaran Kerja Praktek Semester Gasal 2025/2026",
+        "tanggal": "2025-08-10",
+        "deskripsi": "Mahasiswa semester 6 yang berencana mengambil Kerja Praktek wajib mendaftar melalui portal akademik dan menyerahkan proposal KP kepada prodi.",
+        "kategori": "Akademik",
+        "image": null,
+        "contentUrl": null,
+        "lampiran": "https://drive.google.com/file/d/dummy_form_kp"
+    }
 ]

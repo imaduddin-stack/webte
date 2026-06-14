@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nama": "CV Standar",
-        "jenis": "BUMN",
+        "jenis": "Industri",
         "judul": "Magang Industri",
         "tingkat": "Wilayah"
     },
@@ -23,7 +23,7 @@
     {
         "id": 4,
         "nama": "PT Norgantara",
-        "jenis": "BUMD",
+        "jenis": "Industri",
         "judul": "Pelatihan dan Pengabdian",
         "tingkat": "Nasional"
     },
@@ -37,14 +37,14 @@
     {
         "id": 6,
         "nama": "PT Mitra Daya Teknika",
-        "jenis": "BUMN",
+        "jenis": "Industri",
         "judul": "Magang Industri",
         "tingkat": "Nasional"
     },
     {
         "id": 7,
         "nama": "SMU Setia Budi",
-        "jenis": "Pemerintah",
+        "jenis": "Akademik",
         "judul": "Kerjasama Pendidikan",
         "tingkat": "Wilayah"
     },
@@ -65,21 +65,21 @@
     {
         "id": 10,
         "nama": "PT. FHG",
-        "jenis": "Pemerintah",
+        "jenis": "Industri",
         "judul": "Magang Industri",
         "tingkat": "Internasional"
     },
     {
         "id": 11,
         "nama": "Universitas Muhammadiyah Semarang",
-        "jenis": "Asosiasi Profesi",
+        "jenis": "Akademik",
         "judul": "Colaborative Teaching",
         "tingkat": "Nasional"
     },
     {
         "id": 12,
         "nama": "Universitas Teknologi Yogyakarta",
-        "jenis": "Asosiasi Profesi",
+        "jenis": "Akademik",
         "judul": "Kunjungan Benchmark ",
         "tingkat": "Nasional"
     },
@@ -143,14 +143,43 @@
         "id": 21,
         "nama": "PT Nocola IoT Solution",
         "jenis": "Industri",
-        "judul": "Mitra DUDI Penyusunan Kurikulum",
+        "judul": "Mitra DUDI Penyusunull Kurikulum",
         "tingkat": "Wilayah"
     },
     {
         "id": 22,
         "nama": "PT. Asia Pacific Fibers Tbk.",
         "jenis": "Industri",
-        "judul": "Mitra DUDI Penyusunan Kurikulum",
-        "tingkat": "Wilayah"
+        "judul": "Mitra DUDI Penyusunull Kurikulum",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 23,
+        "nama": "Universitas Diponegoro",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture ",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 24,
+        "nama": "Universitas Teknologi Yogyakarta",
+        "jenis": "Akademik",
+        "judul": "Kunjungan Benchmark , Pelatihan dan workshop",
+        "tingkat": "Nasional"
+    },
+    
+    {
+        "id": 25,
+        "nama": "Universitas Sumatera Utara",
+        "jenis": "Akademik",
+        "judul": "Pertukaran mahasiswa (MBKM)",
+        "tingkat": "Nasional"
+    },    
+    {
+        "id": 26,
+        "nama": "Universitas Gadjah Mada Yogyakarta",
+        "jenis": "Akademik",
+        "judul": "Colaborative Research",
+        "tingkat": "Nasional"
     }
 ]

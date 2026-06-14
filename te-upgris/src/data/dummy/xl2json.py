@@ -7,7 +7,7 @@ def konversi_excel_ke_json():
     # 1. Mendapatkan folder tempat script ini dijalankan
     folder_sekarang = os.getcwd()
     # Target output folder: github-data/data/
-    target_output_dir = os.path.abspath(os.path.join(folder_sekarang, "..", "..", "..", "github-data", "data"))
+    target_output_dir = os.path.abspath(os.path.join(folder_sekarang,"github-data", "data"))
     
     # 2. Mencari file Excel (.xlsx) di folder tersebut
     # Mengabaikan file sementara Excel yang diawali dengan '~$'

@@ -20,8 +20,8 @@
         "dana": "Rp44,500,000.00",
         "sumber": "KOMPETITIF NASIONAL ( PKM )",
         "roadmap": "Literasi Teknologi Industri",
-        "image": null,
-        "contentUrl": null
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "sumber": "PROGRAM KEMITRAAN MASYARAKAT ( PKM )",
         "roadmap": "Elektrifikasi Pedesaan",
         "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=70",
-        "contentUrl": null
+        "contentUrl": NaN
     },
     {
         "id": 4,
@@ -43,9 +43,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp10,000,000.00",
         "sumber": "MANDIRI ( PKM-MANDIRI )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 5,
@@ -55,9 +55,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp8,000,000.00",
         "sumber": "PROGRAM KEMITRAAN MAYSARAKAT-REGULER ( PKM-REGULER )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 6,
@@ -67,9 +67,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp1,320,000.00",
         "sumber": "REGULER ( REG )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 7,
@@ -79,9 +79,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp1,320,000.00",
         "sumber": " REGULER ( REG )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 8,
@@ -91,9 +91,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp1,760,000.00",
         "sumber": "REGULER ( REG )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 9,
@@ -103,9 +103,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp101,121,000.00",
         "sumber": "Pengabdian Kepada Masyarakat Kompetitif Nasional ( PDB )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 10,
@@ -115,9 +115,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp5,750,000.00",
         "sumber": "PROGRAM KEMITRAAN MAYSARAKAT-REGULER ( PKM-REGULER )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 11,
@@ -127,9 +127,9 @@
         "jenis": "Pengabdian",
         "dana": "Rp6,000,000.00",
         "sumber": "PROGRAM KEMITRAAN MASYARAKAT ( PKM )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 12,
@@ -138,10 +138,10 @@
         "tahun": " 2025  ",
         "jenis": "Pengabdian",
         "dana": "Rp8,000,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 13,
@@ -150,10 +150,10 @@
         "tahun": " 2024  ",
         "jenis": "Pengabdian",
         "dana": "Rp8,000,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 14,
@@ -162,10 +162,10 @@
         "tahun": " 2024  ",
         "jenis": "Pengabdian",
         "dana": "Rp8,000,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 15,
@@ -174,10 +174,10 @@
         "tahun": " 2023  ",
         "jenis": "Pengabdian",
         "dana": "Rp1,650,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 16,
@@ -186,10 +186,10 @@
         "tahun": " 2023  ",
         "jenis": "Pengabdian",
         "dana": "Rp1,430,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 17,
@@ -198,21 +198,21 @@
         "tahun": " 2023  ",
         "jenis": "Pengabdian",
         "dana": "Rp8,000,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 18,
-        "judul": "PKM PENGUATAN PENYUSUnull KARYA TULIS ILMIAH MGMP FISIKA KABUPATEN BOYOLALI",
+        "judul": "PKM PENGUATAN PENYUSUNAN KARYA TULIS ILMIAH MGMP FISIKA KABUPATEN BOYOLALI",
         "dosen": "Sigit Ristanto PROGRAM KEMITRAAN MAYSARAKAT-PENUGASAN ( PKM-PENUGASAN )Nur Khoiri; Affandi Faisal Kurniawan;",
         "tahun": " 2023  ",
         "jenis": "Pengabdian",
         "dana": "Rp14,000,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     }
 ]

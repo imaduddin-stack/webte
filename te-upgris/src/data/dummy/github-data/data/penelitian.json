@@ -7,9 +7,9 @@
         "jenis": "Penelitian",
         "dana": "Rp7,500,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 2,
@@ -19,21 +19,21 @@
         "jenis": "Penelitian",
         "dana": "Rp10,000,000.00",
         "sumber": "Mandiri",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 3,
-        "judul": "EKSTRAKSI KARAGEnull RUMPUT LAUT (GRACILARIA GIGAS) MENGGUNAKAN METODE REFLUKS DAN PENGAPLIKASIANNYA PADA ENKAPSULAN EKSTRAK KULIT BUAH MANGGIS (GARCINIA MANGOSTANA L.)",
+        "judul": "EKSTRAKSI KARAGENAN RUMPUT LAUT (GRACILARIA GIGAS) MENGGUNAKAN METODE REFLUKS DAN PENGAPLIKASIANNYA PADA ENKAPSULAN EKSTRAK KULIT BUAH MANGGIS (GARCINIA MANGOSTANA L.)",
         "dosen": "Muhammad Amiruddin MANDIRI ( MANDIRI ) Imadudin Harjanto; Bambang Hadi Kunaryo; Affandi Faisal Kurniawan; Sigit Ristanto;",
         "tahun": " 2024  ",
         "jenis": "Penelitian",
-        "dana": null,
+        "dana": NaN,
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 4,
@@ -41,11 +41,11 @@
         "dosen": "Rizky Muliani Dwi Ujianti REGULER - DASAR/FUNDAMENTAL ( REGULER - DASAR/FUNDAMENTAL ) Althesa Androva; Bambang Hadi Kunaryo;",
         "tahun": " 2023  ",
         "jenis": "Penelitian",
-        "dana": null,
+        "dana": NaN,
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 5,
@@ -55,9 +55,9 @@
         "jenis": "Penelitian",
         "dana": "Rp5,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 6,
@@ -67,9 +67,9 @@
         "jenis": "Penelitian",
         "dana": "Rp9,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 7,
@@ -79,9 +79,9 @@
         "jenis": "Penelitian",
         "dana": "Rp90,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 8,
@@ -91,9 +91,9 @@
         "jenis": "Penelitian",
         "dana": "Rp6,500,000.00",
         "sumber": "DRTPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 9,
@@ -103,9 +103,9 @@
         "jenis": "Penelitian",
         "dana": "Rp218,316,000.00",
         "sumber": "PENELITIAN KOMPETITIF NASIONAL ( PENELITIAN TERAPAN KOMPETITIF NASIONAL )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 10,
@@ -115,9 +115,9 @@
         "jenis": "Penelitian",
         "dana": "Rp20,000,000.00",
         "sumber": "HIBAH APBU ( APBU )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 11,
@@ -127,9 +127,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": " PENELITIAN DESENTRALISASI ( PDUPT )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 12,
@@ -139,9 +139,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "Penelitian Kompetitif Nasional ( PFR )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 13,
@@ -151,9 +151,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "REGULER ( PTH )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 14,
@@ -163,9 +163,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": " REGULER ( REG )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 15,
@@ -175,9 +175,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "KERJASAMA LUAR NEGERI ( KLN )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 16,
@@ -187,21 +187,21 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "PENUGASAN ( PENUGASAN )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 17,
-        "judul": "PENGEMBANGAN E-LKPD BERBASIS MASALAH POKOK BAHASAN PENGUKURAN BESARAN FISIS UNTUK MENINGKATKAN PEMAHAnull KONSEP DAN KEMAMPUAN PENGAMBILAN KEPUTUSAN",
+        "judul": "PENGEMBANGAN E-LKPD BERBASIS MASALAH POKOK BAHASAN PENGUKURAN BESARAN FISIS UNTUK MENINGKATKAN PEMAHANAN KONSEP DAN KEMAMPUAN PENGAMBILAN KEPUTUSAN",
         "dosen": "Sigit Ristanto Affandi Faisal Kurniawan; Ummi Kaltsum; Ernawati Saptaningrum;",
         "tahun": " 2023  ",
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 18,
@@ -211,9 +211,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "HIBAH APBU ( HIBAH APBU )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 19,
@@ -223,9 +223,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "PENUGASAN ( PENUGASAN )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 20,
@@ -235,9 +235,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "HIBAH APBU ( APBU )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 21,
@@ -247,9 +247,9 @@
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
         "sumber": "REGULER ( PTK )",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 22,
@@ -258,10 +258,10 @@
         "tahun": " 2024  ",
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 23,
@@ -270,58 +270,58 @@
         "tahun": " 2024  ",
         "jenis": "Penelitian",
         "dana": "Rp99,664,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 24,
-        "judul": "Studi Pengaruh Jenis, Komposisi, dan Tekanull Gas Kerja Terhadap Kinerja Pembangkit Listrik Termoakustik",
+        "judul": "Studi Pengaruh Jenis, Komposisi, dan Tekanan Gas Kerja Terhadap Kinerja Pembangkit Listrik Termoakustik",
         "dosen": "Affandi Faisal Kurniawan REGULER ( REGULER )Nur Khoiri; Joko Saefan;",
         "tahun": 2024,
         "jenis": "Penelitian",
         "dana": "Rp132,060,000.00",
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 25,
-        "judul": "KONVERSI ENERGI PANAS MENJADI ENERGI AKUSTIK DARI MESIN TERMOAKUSTIK",
+        "judul": "KONVERSI ENERGI PANAS MENJADI ENERGI AKUSTIK\nDARI MESIN TERMOAKUSTIK",
         "dosen": "IKHSAN SETIAWANAGUNG BAMBANG SETIO, PRASTOWO MURTI UTOMO, IRNA FARIKHAH",
         "tahun": 2025,
         "jenis": "Penelitian",
         "dana": "Rp24,500,000.00",
-        "sumber": "Universitas Gadjah Mada Yogyakarta",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 26,
-        "judul": "Pengembangan Peredam Panas Ramah Lingkungan pada Atap Bangunull Berbasis Serat Kelapa\n",
+        "judul": "Pengembangan Peredam Panas Ramah Lingkungan pada Atap Bangunan Berbasis Serat Kelapa\n",
         "dosen": "Irna FarikhahNur Khoiri, Setyoningsih Wibowo,",
         "tahun": 2025,
         "jenis": "Penelitian",
         "dana": "Rp15,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 27,
-        "judul": "Ekstraksi Karagenull Rumput Laut (Gracilaria gigas) Menggunakan Metode Refluks dan Pengaplikasiannya pada Enkapsulan Ekstrak Kulit Buah Manggis (Garcinia mangostana L.)",
-        "dosen": "Dr SLAMET SUPRIYADI, M.Env.St.Margono, ST., M.Eng; Bambang Hadi Kunaryo, S.T., M.T.; Winda Margaretha; Silfia Dea Anullta; Sisilia Nava Brillian Angelica",
+        "judul": "Ekstraksi Karagenan Rumput Laut (Gracilaria gigas) Menggunakan Metode Refluks dan Pengaplikasiannya pada Enkapsulan Ekstrak Kulit Buah Manggis (Garcinia mangostana L.)",
+        "dosen": "Dr SLAMET SUPRIYADI, M.Env.St.Margono, ST., M.Eng; Bambang Hadi Kunaryo, S.T., M.T.; Winda Margaretha; Silfia Dea Ananta; Sisilia Nava Brillian Angelica",
         "tahun": 2024,
         "jenis": "Penelitian",
         "dana": "Rp12,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 28,
@@ -331,9 +331,9 @@
         "jenis": "Penelitian",
         "dana": "Rp12,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 29,
@@ -343,9 +343,9 @@
         "jenis": "Penelitian",
         "dana": "Rp12,500,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 30,
@@ -355,9 +355,9 @@
         "jenis": "Penelitian",
         "dana": "Rp12,500,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 31,
@@ -367,21 +367,21 @@
         "jenis": "Penelitian",
         "dana": "Rp15,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 32,
-        "judul": "Pengaruh Pemberian Cat pada Atap Bangunull Terhadap Laju Transfer Panas",
+        "judul": "Pengaruh Pemberian Cat pada Atap Bangunan Terhadap Laju Transfer Panas",
         "dosen": "Dr. Sigit Ristanto, ST., M.Sc\nProf. Dr. Nur Khoiri, S.Pd., M.T., M.Pd.; Dr. Affandi Faisal Kurniawan, S.Si.,M.Sc.; Emila Luthfia Sofa; Julia; Dwi Amiliya Putri\n",
         "tahun": 2024,
         "jenis": "Penelitian",
         "dana": "Rp23,000,000.00",
         "sumber": "LPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 33,
@@ -391,9 +391,9 @@
         "jenis": "Penelitian",
         "dana": "Rp15,000,000.00",
         "sumber": "lPPM",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 34,
@@ -403,236 +403,236 @@
         "jenis": "Penelitian",
         "dana": "Rp50,000,000.00",
         "sumber": "PROGRAM PENELITIAN INTERNAL \nSKEMA KERJASAMA LUAR NEGERI",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 35,
-        "judul": "Pengembangan E-LKPD Berbasis Masalah Pokok Bahasan Pengukuran Besaran Fisis Untuk Meningkatkan Pemahanull Konsep dan Kemampuan Pengambilan Keputusan\n",
+        "judul": "Pengembangan E-LKPD Berbasis Masalah Pokok Bahasan Pengukuran Besaran Fisis Untuk Meningkatkan Pemahanan Konsep dan Kemampuan Pengambilan Keputusan\n",
         "dosen": "Dr.Pi Rizky Muliani Dwi Ujianti, S.Pi., M.Si\nDr. Sigit Ristanto, ST., M.Sc; Bambang Agus Herlambang, S.Kom., M.Kom; Rina Widyawati; Sri Wahyuni; Tri Ambarwati Mardikaningrum; Prof. Kazuyoshi Ogasawara\n",
         "tahun": 2023,
         "jenis": "Penelitian",
         "dana": "Rp10,000,000.00",
         "sumber": "Reguler",
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 36,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 37,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 38,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 39,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 40,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 41,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 42,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 43,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 44,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 45,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 46,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 47,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 48,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 49,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 50,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 51,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 52,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     },
     {
         "id": 53,
-        "judul": null,
-        "dosen": null,
+        "judul": NaN,
+        "dosen": NaN,
         "tahun": null,
-        "jenis": null,
-        "dana": null,
-        "sumber": null,
-        "roadmap": null,
-        "image": null,
-        "contentUrl": null
+        "jenis": NaN,
+        "dana": NaN,
+        "sumber": NaN,
+        "roadmap": NaN,
+        "image": NaN,
+        "contentUrl": NaN
     }
 ]

@@ -2,7 +2,7 @@
 
 Tim mahasiswa Program Studi Teknik Elektro Universitas PGRI Semarang (TE UPGRIS) berhasil menorehkan prestasi gemilang pada ajang **Kontes Robot Indonesia (KRI) 2025** tingkat nasional yang diselenggarakan di Institut Teknologi Sepuluh Nopember (ITS) Surabaya, 8–10 November 2025.
 
-## Tim Pemenang
+## Tim Pemenullg
 
 Tim yang beranggotakan empat mahasiswa semester 7 ini berhasil mengalahkan 48 tim dari berbagai perguruan tinggi di seluruh Indonesia dalam kategori **Kontes Robot Abu Indonesia (KRAI)**.
 
