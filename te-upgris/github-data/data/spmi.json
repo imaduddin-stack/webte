@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nama": "Kebijakan SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Kebijakan Mutu",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1BNWXDVaz9x5TDaZvMoeoVhQF6yNXqwC-?usp=drive_link"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "nama": "Manual SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Manual Mutu",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1o1va5wvdz0yviKQvOXQ2Mp4Gnq1gernV?usp=drive_link"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "nama": "Standar SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Standar Mutu",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1r2F3jNqC8tEWmYO4vLqzxESKZ78GxKyK?usp=drive_link"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "nama": "Formulir SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Formulir",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1YddwX1720MCji9pzRl-nE0B8wNSKrcOq?usp=drive_link"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "nama": "SOP SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "SOP",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/150K75WJGCD6xjiiutSqPUIurGTtDmTWO?usp=drive_link"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "nama": "Tata Cara Pendokumentasian Implementasi SPMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "SOP",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/file/d/1hLDbrj8VJzIOKCMstW8iAG1eurqkawPB/view?usp=drive_link"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "nama": "Renstra FTI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Kebijakan Mutu",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/file/d/1c5MoQOihi1aApOSevddJaaFTiFmpdZ9f/view?usp=sharing"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "nama": "Pedoman Implementasi Siklus PPEPP SPMI UPGRIS",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Kebijakan Mutu",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/file/d/1Lu9Xm5ZC6o0J9W6NTtIbCNkKCd2Y6v12/view?usp=drive_link"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "nama": "Laporan AMI",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1PhtyEULhb5j4qsClk-yjTjWeidmiOtqZ?usp=drive_link"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "nama": "Dokumen Kepuasan Dosen terhadap pengelolaan Sumber Daya Manusia",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1R6gs3ONqHGNuwDoYL9d3fY8GNhBcj8ah?usp=drive_link"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "nama": "Dokumen Kepuasan Dosen Terhadap Tata Pamong dan Tata Kelola Lembaga",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/13HIav2gqmDlE8oQ1c_eCGJlrJZVmOJBA?usp=drive_link"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "nama": "Dokumen Kepuasan DosenTerhadap Sarana, Prasarana dan Keuangan",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1bw0kWRonlPbN4Yz0li2uFR1GPINLws9K?usp=drive_link"
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "nama": "Dokumen Kepuasan Tendik terhadap pengelolaan Sumber Daya Manusia",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1urzlWLBY7cbvAbb4IgVtmLXSyo0pvjaw?usp=drive_link"
@@ -106,7 +106,7 @@
     {
         "id": 14,
         "nama": "Dokumen Kepuasan Tendik Terhadap Tata Pamong dan Tata Kelola Lembaga",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1I-MWRjkVja79OqmSPghgPY9ZDAC5hlcL?usp=drive_link"
@@ -114,7 +114,7 @@
     {
         "id": 15,
         "nama": "Dokumen Kepuasan TendikTerhadap Sarana, Prasarana dan Keuangan",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1Urt0eQmyY44f5-yrOtkY7K_ueMNajfXP?usp=drive_link"
@@ -122,7 +122,7 @@
     {
         "id": 16,
         "nama": "Dokumen Kepuasan Mahasiswa Terhadap Proses Pembelajaran",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1jp5mKEIlKnFLHZFeAFWydUzuH8FXf4yV?usp=drive_link"
@@ -130,7 +130,7 @@
     {
         "id": 17,
         "nama": "Dokumen Kepuasan Pengguna Lulusan",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/12SliAXYzOzRmcwpqzZsUtQud5eu_dDpu?usp=drive_link"
@@ -138,7 +138,7 @@
     {
         "id": 18,
         "nama": "Dokumen Kepuasan Mitra Industri",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://drive.google.com/drive/folders/1Zqdia1y1cBWMvPd41TV8rkzDJPZzxlRA?usp=drive_link"
@@ -146,7 +146,7 @@
     {
         "id": 19,
         "nama": "Monev monev",
-        "nomor": NaN,
+        "nomor": null,
         "kategori": "Laporan Monev",
         "tahun": 2023,
         "fileUrl": "https://docs.google.com/document/d/1AQLmMq6LHnJMcpx8-bo2DHkSsrX2J0aq/edit?usp=sharing&ouid=110343234348710563101&rtpof=true&sd=true"
