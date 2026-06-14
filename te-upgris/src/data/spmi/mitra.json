@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "nama": "CV Standar",
+        "jenis": "BUMN",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 2,
+        "nama": "PT Autonics Indonesia",
+        "jenis": "Industri",
+        "judul": "Pelatihan dan Pengabdian",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 3,
+        "nama": "PT. AUTENTIK KARYA ANALITIKA",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 4,
+        "nama": "PT Norgantara",
+        "jenis": "BUMD",
+        "judul": "Pelatihan dan Pengabdian",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 5,
+        "nama": "Guangxi Modern Polytechnic College",
+        "jenis": "Akademik",
+        "judul": "Colaborative Teaching",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 6,
+        "nama": "PT Mitra Daya Teknika",
+        "jenis": "BUMN",
+        "judul": "Magang Industri",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 7,
+        "nama": "SMU Setia Budi",
+        "jenis": "Pemerintah",
+        "judul": "Kerjasama Pendidikan",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 8,
+        "nama": "Universiti Teknologi Malaysia",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 9,
+        "nama": "Neijiang Vocational and Technical College China",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 10,
+        "nama": "PT. FHG",
+        "jenis": "Pemerintah",
+        "judul": "Magang Industri",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 11,
+        "nama": "Universitas Muhammadiyah Semarang",
+        "jenis": "Asosiasi Profesi",
+        "judul": "Colaborative Teaching",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 12,
+        "nama": "Universitas Teknologi Yogyakarta",
+        "jenis": "Asosiasi Profesi",
+        "judul": "Kunjungan Benchmark ",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 13,
+        "nama": "LSK GEMA PEDEKABE",
+        "jenis": "Lembaga Sertifikasi",
+        "judul": "Colaborative Teaching",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 14,
+        "nama": "Laksana Bus",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Nasional"
+    },
+    {
+        "id": 15,
+        "nama": "Iloilo Science and Technology University",
+        "jenis": "Akademik",
+        "judul": "Student Exchange",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 16,
+        "nama": "CV. Bintang Anugerah Elektrik",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 17,
+        "nama": "PT. Omni Electrindo",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 18,
+        "nama": "NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "jenis": "Akademik",
+        "judul": "Pertukaran dosen dan mahasiswa",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 19,
+        "nama": "XXVTC ( Xinxiang Vocational and Technical College)",
+        "jenis": "Akademik",
+        "judul": "Gues Lecture",
+        "tingkat": "Internasional"
+    },
+    {
+        "id": 20,
+        "nama": "PT. AUTENTIK KARYA ANALITIKA",
+        "jenis": "Industri",
+        "judul": "Magang Industri",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 21,
+        "nama": "PT Nocola IoT Solution",
+        "jenis": "Industri",
+        "judul": "Mitra DUDI Penyusunan Kurikulum",
+        "tingkat": "Wilayah"
+    },
+    {
+        "id": 22,
+        "nama": "PT. Asia Pacific Fibers Tbk.",
+        "jenis": "Industri",
+        "judul": "Mitra DUDI Penyusunan Kurikulum",
+        "tingkat": "Wilayah"
+    }
+]

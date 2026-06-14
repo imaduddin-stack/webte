@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "kode": 6625332615,
+        "nama": "Fisika Mekanika",
+        "sks": 3,
+        "semester": 1,
+        "tipe": "MKW",
+        "rpsUrl": 1
+    },
+    {
+        "id": 2,
+        "kode": 6625331620,
+        "nama": "Kalkulus",
+        "sks": 3,
+        "semester": 1,
+        "tipe": "MKW",
+        "rpsUrl": 1
+    },
+    {
+        "id": 3,
+        "kode": 6625332616,
+        "nama": "Fisika Listrik",
+        "sks": 3,
+        "semester": 2,
+        "tipe": "MKW",
+        "rpsUrl": 2
+    },
+    {
+        "id": 4,
+        "kode": 6625331635,
+        "nama": "Analisa Vektor",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "MKW",
+        "rpsUrl": 3
+    },
+    {
+        "id": 5,
+        "kode": 6625331617,
+        "nama": "Fisika Modern",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "MKW",
+        "rpsUrl": 3
+    },
+    {
+        "id": 6,
+        "kode": 6625332650,
+        "nama": "Perancangan Sistem Analog",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "MKK",
+        "rpsUrl": 3
+    },
+    {
+        "id": 7,
+        "kode": 6625431653,
+        "nama": "Probabilitas Statistik",
+        "sks": 3,
+        "semester": 3,
+        "tipe": "MKK",
+        "rpsUrl": 3
+    },
+    {
+        "id": 8,
+        "kode": 6625332610,
+        "nama": "Elektronika Daya",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 9,
+        "kode": 6625331618,
+        "nama": "Isyarat dan Sistem",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 10,
+        "kode": 6625232625,
+        "nama": "Komunikasi Data",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 11,
+        "kode": 6625331634,
+        "nama": "Matematika Diskrit",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 12,
+        "kode": 6625131657,
+        "nama": "Sistem Instrumentasi",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 13,
+        "kode": 6625131660,
+        "nama": "Transmisi dan Distribusi",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKK",
+        "rpsUrl": 4
+    },
+    {
+        "id": 14,
+        "kode": 6625331636,
+        "nama": "Variabel Kompleks",
+        "sks": 3,
+        "semester": 4,
+        "tipe": "MKW",
+        "rpsUrl": 4
+    },
+    {
+        "id": 15,
+        "kode": 6625332606,
+        "nama": "Dasar Sistem Kendali",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 16,
+        "kode": 6625221622,
+        "nama": "Ke-PGRI-an",
+        "sks": 2,
+        "semester": 5,
+        "tipe": "MKU",
+        "rpsUrl": 5
+    },
+    {
+        "id": 17,
+        "kode": 6625322626,
+        "nama": "Komunikasi Nirkabel",
+        "sks": 2,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 18,
+        "kode": 6625324628,
+        "nama": "Kuliah Kerja Lapangan (KKL)",
+        "sks": 2,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 19,
+        "kode": 6625332630,
+        "nama": "Logika Fuzzy",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 20,
+        "kode": 6625331649,
+        "nama": "Pengolahan Isyarat Digital",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 21,
+        "kode": 6625331656,
+        "nama": "Sensor dan Tranduser",
+        "sks": 3,
+        "semester": 5,
+        "tipe": "MKK",
+        "rpsUrl": 5
+    },
+    {
+        "id": 22,
+        "kode": 6625221605,
+        "nama": "Bahasa Inggris",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "MKU",
+        "rpsUrl": 6
+    },
+    {
+        "id": 23,
+        "kode": 6625332612,
+        "nama": "Embeded System",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 24,
+        "kode": 6625321614,
+        "nama": "Etika Profesi",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 25,
+        "kode": 6625332623,
+        "nama": "Kecerdasan Buatan",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 26,
+        "kode": 6625241624,
+        "nama": "Kewirausahaan berbasis Teknologi",
+        "sks": 4,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 27,
+        "kode": 6625321633,
+        "nama": "Manajemen Proyek dan K3",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 28,
+        "kode": 6625321647,
+        "nama": "Pendidikan Pancasila",
+        "sks": 2,
+        "semester": 6,
+        "tipe": "MKU",
+        "rpsUrl": 6
+    },
+    {
+        "id": 29,
+        "kode": 6625332651,
+        "nama": "PLC",
+        "sks": 3,
+        "semester": 6,
+        "tipe": "MKK",
+        "rpsUrl": 6
+    },
+    {
+        "id": 30,
+        "kode": 6625322603,
+        "nama": "Antarmuka dan Arsitektur Komputer",
+        "sks": 3,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 31,
+        "kode": 6625421613,
+        "nama": "Energi Terbarukan",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 32,
+        "kode": 6625422627,
+        "nama": "Konversi Energi",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 33,
+        "kode": 6625421631,
+        "nama": "Manajemen Energi dan sistem Hybrid",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 34,
+        "kode": 6625421632,
+        "nama": "Manajemen Industri",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 35,
+        "kode": 6625322648,
+        "nama": "Pengolahan Citra",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 36,
+        "kode": 6625745652,
+        "nama": "Praktek Kerja Lapangan (PKL)",
+        "sks": 4,
+        "semester": 7,
+        "tipe": "MKK",
+        "rpsUrl": 7
+    },
+    {
+        "id": 37,
+        "kode": 6625321638,
+        "nama": "Rekayasa Teknik Elektro",
+        "sks": 2,
+        "semester": 7,
+        "tipe": "MKW",
+        "rpsUrl": 7
+    },
+    {
+        "id": 38,
+        "kode": 6625244629,
+        "nama": "Kuliah Kerja Nyata (KKN)",
+        "sks": 4,
+        "semester": 8,
+        "tipe": "MKU",
+        "rpsUrl": 8
+    },
+    {
+        "id": 39,
+        "kode": 6625765661,
+        "nama": "Tugas Akhir",
+        "sks": 6,
+        "semester": 8,
+        "tipe": "MKK",
+        "rpsUrl": 8
+    }
+]

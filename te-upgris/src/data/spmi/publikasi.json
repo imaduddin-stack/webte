@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "judul": "Design of Water Pump Station Control in Polder System using IoT and Hybrid Fuzzy Neural Network",
+        "dosen": "Imadudin Harjanto",
+        "jenis": "Jurnal Internasional",
+        "tahun": 2025.0,
+        "url": "https://iopscience.iop.org/article/10.1088/1755-1315/1321/1/012014",
+        "keterangan": " Q3 as Conference Proceedin Iop Conference Series Earth and Environmental Science"
+    },
+    {
+        "id": 2,
+        "judul": "A Comprehensive Analysis of Mask Detection Using Convolutional Neural Networks (CNN) and Single Shot Multibox Detector (SSD) Approach",
+        "dosen": "Imadudin Harjanto",
+        "jenis": "Jurnal Nasional",
+        "tahun": 2023.0,
+        "url": "https://ieeexplore.ieee.org/document/10303567",
+        "keterangan": " no-Q as Conference Proceedin 2023 International Conference on Sustainable Emerging Innovations in Engineering and Technology Icse"
+    },
+    {
+        "id": 3,
+        "judul": "Review Paper on Bluetooth Based Home Automation Using Android Phone",
+        "dosen": "Imadudin Harjanto",
+        "jenis": "Prosiding Internasional",
+        "tahun": 2023.0,
+        "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85179139513&origin=resultslist",
+        "keterangan": " no-Q as Conference Proceedin 2023 International Conference on Sustainable Emerging Innovations in Engineering and Technology Icse"
+    },
+    {
+        "id": 4,
+        "judul": "Feasibility Study of Solar Power Generation System for Public Street Lighting",
+        "dosen": "Imadudin Harjanto",
+        "jenis": "Prosiding Nasional",
+        "tahun": 2021.0,
+        "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85199799296&origin=resultslist",
+        "keterangan": " no-Q as Journal Advance Sustainable Science Engineering and Technology"
+    },
+    {
+        "id": 5,
+        "judul": "The Potential of Mechanic Vibration for Generating Electric Energy",
+        "dosen": "Imadudin Harjanto",
+        "jenis": "Jurnal Internasional",
+        "tahun": 2021.0,
+        "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85149390068&origin=resultslist",
+        "keterangan": " no-Q as Journal Advance Sustainable Science Engineering and Technology"
+    },
+    {
+        "id": 6,
+        "judul": "Power Regulation on PV and Grid with Monitoring Load Power in Residential",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin International Conference on Electrical Engineering Computer Science and Informatics Eecsi"
+    },
+    {
+        "id": 7,
+        "judul": "Multi-Inverter Coordinated Control on AC Microgrid for Increased Load Power",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": 2023.0,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin 2023 6th International Conference on Vocational Education and Electrical Engineering Integrating Sca"
+    },
+    {
+        "id": 8,
+        "judul": "Real-Time Microgrid For Submersible Pump Energy Consumption Based On Fuzzy Logic Controller",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": 2023.0,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin 2023 International Conference on Advanced Mechatronics Intelligent Manufacture and Industrial Automa"
+    },
+    {
+        "id": 9,
+        "judul": "Power management on DC microgrid with new DC coupling based on fuzzy logic",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": 2024.0,
+        "url": NaN,
+        "keterangan": " Q2 as Journal Indonesian Journal of Electrical Engineering and Computer Science"
+    },
+    {
+        "id": 10,
+        "judul": "Solar power and multi-battery for new configuration DC microgrid using centralized control",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Archives of Electrical Engineering"
+    },
+    {
+        "id": 11,
+        "judul": "Real-Time Microgrid Centralized Control For Consuming Water Pump",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin E3s Web of Conferences"
+    },
+    {
+        "id": 12,
+        "judul": "Coordinated Control of AC Microgrid for Increase Load Power Using Multi-Inverter",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin Proceedings Ieit 2023 2023 International Conference on Electrical and Information Technology"
+    },
+    {
+        "id": 13,
+        "judul": "Enhancement DC Microgrid Power Stability with a Centralized",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin 2022 5th International Conference on Vocational Education and Electrical Engineering the Future of E"
+    },
+    {
+        "id": 14,
+        "judul": "Improvement the Capacity of Electrical Energy in Residential Using PV with On-Grid System",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Conference Proceedin E3s Web of Conferences"
+    },
+    {
+        "id": 15,
+        "judul": "Coordinated Control of Battery Energy Storage System Based on Fuzzy Logic for Microgrid with Modified AC Coupling Configuration",
+        "dosen": "Adhi Kusmantoro",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q2 as Journal International Journal of Intelligent Engineering and Systems"
+    },
+    {
+        "id": 16,
+        "judul": "Effectiveness of implementing deep learning approach using PBL with PhET simulation on students’ interest and collaboration",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Physics Education"
+    },
+    {
+        "id": 17,
+        "judul": "Study on Local-Structure Symmetrization of K2XF6 Crystals Doped with Mn4+ Ions by First-Principles Calculations",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q2 as Journal Materials"
+    },
+    {
+        "id": 18,
+        "judul": "PROJECT-BASED LEARNING VIA TRADITIONAL GAME IN PHYSICS LEARNING: ITS IMPACT ON CRITICAL THINKING, CREATIVE THINKING, AND COLLABORATIVE SKILLS",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q2 as Journal Jurnal Pendidikan IPA Indonesia"
+    },
+    {
+        "id": 19,
+        "judul": "Comprehensive observations on pendulum oscillation using stereo vision",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Physics Education"
+    },
+    {
+        "id": 20,
+        "judul": "Development of laboratory devices for real-time measurement of object 3D position using stereo cameras",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Physics Education"
+    },
+    {
+        "id": 21,
+        "judul": "System and method for stereoscopic image acquisition",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Aip Conference Proceedings"
+    },
+    {
+        "id": 22,
+        "judul": "3D Velocity Measurement of Translational Motion using a Stereo Camera",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q2 as Journal International Journal on Advanced Science Engineering and Information Technology"
+    },
+    {
+        "id": 23,
+        "judul": "Soft starter induction motor three phase with fuzzy logic controller inside delta",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " no-Q as Journal International Journal of Applied Engineering Research"
+    },
+    {
+        "id": 24,
+        "judul": "Thermoacoustic design using stem of goose down stack",
+        "dosen": "Sigit Ristanto",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Aip Conference Proceedings"
+    },
+    {
+        "id": 25,
+        "judul": "Thickness optimization of a triple-layered microwave absorber combining magnetic and dielectric particles",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Asia Pacific Journal of Science and Technology"
+    },
+    {
+        "id": 26,
+        "judul": "Digital Physics Module for 21st Century Education on New and Renewable Energy Based on the Dilemma-STEAM Learning Model",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Conference Proceedin Journal of Physics Conference Series"
+    },
+    {
+        "id": 27,
+        "judul": "The Effectiveness of the Dilemma-STEAM Learning Model Based on Motion Graphic Videos in the Subject of Parabolic Motion",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Conference Proceedin Journal of Physics Conference Series"
+    },
+    {
+        "id": 28,
+        "judul": "Development of educational videos on work and energy topics to support schoology based e-learning",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Aip Conference Proceedings"
+    },
+    {
+        "id": 29,
+        "judul": "Revitalizing circular motion topic learning through android application based on transformative learning",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Conference Proceedin Journal of Physics Conference Series"
+    },
+    {
+        "id": 30,
+        "judul": "Preparation and Thickness Optimization of Graphenic-Based Carbon Material as a Microwave Absorber",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Trends in Sciences"
+    },
+    {
+        "id": 31,
+        "judul": "Thickness optimization of a double-layered microwave absorber combining magnetic and dielectric particles",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q1 as Journal Materials Research Express"
+    },
+    {
+        "id": 32,
+        "judul": "Chemical exfoliation and microwave absorption of reduced graphene oxide synthesized from old coconut shells",
+        "dosen": "AFFANDI FAISAL KURNIAWAN ",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Journal of Physics Conference Series"
+    },
+    {
+        "id": 33,
+        "judul": "EFFECT OF PRIME MOVER REGENERATOR RADIUS ON THE PERFORMANCE AND CHARACTERISTIC OF ACOUSTIC FIELD OF THERMOACOUSTIC REFRIGERATOR DRIVEN BY PRIME MOVER",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Thermal Science"
+    },
+    {
+        "id": 34,
+        "judul": "CONSTRUCTION AND TESTING OF SMALL-SCALE THERMOACOUSTIC ELECTRICITY GENERATOR WITH DIFFERENT HEATING POWER",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q3 as Journal Thermal Science"
+    },
+    {
+        "id": 35,
+        "judul": "Numerical Study on the Effect of Stack Radii on the Low Onset Heating Temperature and Efficiency of 4-Stage Thermoacoustic Engine",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q1 as Journal Arabian Journal for Science and Engineering"
+    },
+    {
+        "id": 36,
+        "judul": "The effect of regenerator's radii on low heating temperature of 4-stage thermoacoustic engine utilizing solar and waste heat",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Aip Conference Proceedings"
+    },
+    {
+        "id": 37,
+        "judul": "Study on the optimal stack diameter on the efficiency of thermoacoustic engine",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " Q4 as Conference Proceedin Aip Conference Proceedings"
+    },
+    {
+        "id": 38,
+        "judul": "Performance of Thermoacoustic Cooler Driven by Thermoacoustic Engine with Different Flow Channel Radii",
+        "dosen": "Irna Farikhah",
+        "jenis": NaN,
+        "tahun": NaN,
+        "url": NaN,
+        "keterangan": " no-Q as Conference Proceedin Proceedings of the 4th IEEE Eurasia Conference on Iot Communication and Engineering 2022 Ecice 2022"
+    }
+]
