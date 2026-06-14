@@ -25,7 +25,7 @@ export function Profil() {
             <div className="grid-2">
               <div>
                 <div className="card" style={{background:'var(--navy)',color:'#fff',marginBottom:'1rem'}}>
-                  <h3 style={{color:'#fff',marginBottom:'0.75rem'}}>Visi</h3>
+                  <h3 style={{color:'#fff',marginBottom:'0.75rem'}}>Visi Keilmuan Program Studi</h3>
                   <p style={{color:'rgba(255,255,255,0.85)',lineHeight:1.7}}>{data.visi}</p>
                 </div>
                 <div className="card">
@@ -37,22 +37,21 @@ export function Profil() {
               </div>
               <div>
                 <h3 style={{marginBottom:'1rem'}}>Misi</h3>
-                {data.misi?.map((m,i) => (
+                {Array.isArray(data.misi) && data.misi.map((m,i) => (
                   <div key={i} className="card" style={{marginBottom:'0.75rem',display:'flex',gap:'1rem',alignItems:'flex-start'}}>
                     <div style={{background:'var(--electric)',color:'#fff',borderRadius:'50%',width:28,height:28,display:'flex',alignItems:'center',justifyContent:'center',fontSize:'0.8rem',fontWeight:700,flexShrink:0}}>{i+1}</div>
                     <p style={{fontSize:'0.9rem',lineHeight:1.6}}>{m}</p>
+                  </div>
+                ))}
+
+                <h3 style={{marginTop:'2rem', marginBottom:'1rem'}}>Strategi</h3>
+                {Array.isArray(data.strategi) && data.strategi.map((s,i) => (
+                  <div key={i} className="card" style={{marginBottom:'0.75rem',display:'flex',gap:'1rem',alignItems:'flex-start'}}>
+                    <div style={{background:'var(--electric)',color:'#fff',borderRadius:'50%',width:28,height:28,display:'flex',alignItems:'center',justifyContent:'center',fontSize:'0.8rem',fontWeight:700,flexShrink:0}}>{i+1}</div>
+                    <p style={{fontSize:'0.9rem',lineHeight:1.6}}>{s}</p>
                   </div>
                 ))}
               </div>
-              {/* <div>
-                <h3 style={{marginBottom:'1rem'}}>Strategi</h3>
-                {data.strategi?.map((m,i) => (
-                  <div key={i} className="card" style={{marginBottom:'0.75rem',display:'flex',gap:'1rem',alignItems:'flex-start'}}>
-                    <div style={{background:'var(--electric)',color:'#fff',borderRadius:'50%',width:28,height:28,display:'flex',alignItems:'center',justifyContent:'center',fontSize:'0.8rem',fontWeight:700,flexShrink:0}}>{i+1}</div>
-                    <p style={{fontSize:'0.9rem',lineHeight:1.6}}>{m}</p>
-                  </div>
-                ))}
-              </div> */}
             </div>
           )}
           {data && tab==='identitas' && (
