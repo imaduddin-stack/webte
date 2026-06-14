@@ -50,7 +50,7 @@
         "nama": "Perancangan Sistem Analog",
         "sks": 3,
         "semester": 3,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 3
     },
     {
@@ -59,7 +59,7 @@
         "nama": "Probabilitas Statistik",
         "sks": 3,
         "semester": 3,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 3
     },
     {
@@ -68,7 +68,7 @@
         "nama": "Elektronika Daya",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -77,7 +77,7 @@
         "nama": "Isyarat dan Sistem",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -86,7 +86,7 @@
         "nama": "Komunikasi Data",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -95,7 +95,7 @@
         "nama": "Matematika Diskrit",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -104,7 +104,7 @@
         "nama": "Sistem Instrumentasi",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -113,7 +113,7 @@
         "nama": "Transmisi dan Distribusi",
         "sks": 3,
         "semester": 4,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 4
     },
     {
@@ -131,7 +131,7 @@
         "nama": "Dasar Sistem Kendali",
         "sks": 3,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -149,7 +149,7 @@
         "nama": "Komunikasi Nirkabel",
         "sks": 2,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -158,7 +158,7 @@
         "nama": "Kuliah Kerja Lapangan (KKL)",
         "sks": 2,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -167,7 +167,7 @@
         "nama": "Logika Fuzzy",
         "sks": 3,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -176,7 +176,7 @@
         "nama": "Pengolahan Isyarat Digital",
         "sks": 3,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -185,7 +185,7 @@
         "nama": "Sensor dan Tranduser",
         "sks": 3,
         "semester": 5,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 5
     },
     {
@@ -203,7 +203,7 @@
         "nama": "Embeded System",
         "sks": 3,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -212,7 +212,7 @@
         "nama": "Etika Profesi",
         "sks": 2,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -221,7 +221,7 @@
         "nama": "Kecerdasan Buatan",
         "sks": 3,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -230,7 +230,7 @@
         "nama": "Kewirausahaan berbasis Teknologi",
         "sks": 4,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -239,7 +239,7 @@
         "nama": "Manajemen Proyek dan K3",
         "sks": 2,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -257,7 +257,7 @@
         "nama": "PLC",
         "sks": 3,
         "semester": 6,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 6
     },
     {
@@ -266,7 +266,7 @@
         "nama": "Antarmuka dan Arsitektur Komputer",
         "sks": 3,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -275,7 +275,7 @@
         "nama": "Energi Terbarukan",
         "sks": 2,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -284,7 +284,7 @@
         "nama": "Konversi Energi",
         "sks": 2,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -293,7 +293,7 @@
         "nama": "Manajemen Energi dan sistem Hybrid",
         "sks": 2,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -302,7 +302,7 @@
         "nama": "Manajemen Industri",
         "sks": 2,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -311,7 +311,7 @@
         "nama": "Pengolahan Citra",
         "sks": 2,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -320,7 +320,7 @@
         "nama": "Praktek Kerja Lapangan (PKL)",
         "sks": 4,
         "semester": 7,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 7
     },
     {
@@ -347,7 +347,7 @@
         "nama": "Tugas Akhir",
         "sks": 6,
         "semester": 8,
-        "tipe": "MKK",
+        "tipe": "Kompetensi",
         "rpsUrl": 8
     }
 ]

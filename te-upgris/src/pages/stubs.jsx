@@ -44,6 +44,15 @@ export function Profil() {
                   </div>
                 ))}
               </div>
+              <div>
+                <h3 style={{marginBottom:'1rem'}}>Strategi</h3>
+                {data.strategi?.map((m,i) => (
+                  <div key={i} className="card" style={{marginBottom:'0.75rem',display:'flex',gap:'1rem',alignItems:'flex-start'}}>
+                    <div style={{background:'var(--electric)',color:'#fff',borderRadius:'50%',width:28,height:28,display:'flex',alignItems:'center',justifyContent:'center',fontSize:'0.8rem',fontWeight:700,flexShrink:0}}>{i+1}</div>
+                    <p style={{fontSize:'0.9rem',lineHeight:1.6}}>{m}</p>
+                  </div>
+                ))}
+              </div>
             </div>
           )}
           {data && tab==='identitas' && (
