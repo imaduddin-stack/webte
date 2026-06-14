@@ -44,7 +44,7 @@ export function Profil() {
                   </div>
                 ))}
               </div>
-              <div>
+              {/* <div>
                 <h3 style={{marginBottom:'1rem'}}>Strategi</h3>
                 {data.strategi?.map((m,i) => (
                   <div key={i} className="card" style={{marginBottom:'0.75rem',display:'flex',gap:'1rem',alignItems:'flex-start'}}>
@@ -52,7 +52,7 @@ export function Profil() {
                     <p style={{fontSize:'0.9rem',lineHeight:1.6}}>{m}</p>
                   </div>
                 ))}
-              </div>
+              </div> */}
             </div>
           )}
           {data && tab==='identitas' && (
