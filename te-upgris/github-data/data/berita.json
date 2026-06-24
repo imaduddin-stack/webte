@@ -1,5 +1,16 @@
 [
     {
+        "id": 98,
+        "judul": "Pembekalan Magang Industri Mahasiswa Prodi Teknik Elektro UPGRIS oleh Praktisi Industri",
+        "kategori": "Pendidikan",
+        "tanggal": "2025-10-15",
+        "ringkasan": "Program Studi Teknik Elektro UPGRIS mengadakan pembekalan magang industri bagi mahasiswa semester 6 yang akan melaksanakan magang di berbagai perusahaan mitra. Pembekalan ini dipandu oleh praktisi industri untuk memberikan wawasan dan keterampilan yang relevan dengan kebutuhan industri saat ini.",
+        "penulis": "Admin Prodi",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/PembekalanSogy.jpg",
+        "contentUrl": "/content/berita/berita-sogy.md"
+
+    },
+    {
         "id": 99,
         "judul": "Benchmark Program Studi Teknik Elektro ke Teknik Elektro Universitas Teknologi Yogyakarta",
         "kategori": "Kerjasama",
