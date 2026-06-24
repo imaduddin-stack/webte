@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "judul": "Smart Greenhouse Farming",
+    "mahasiswa": "1. Gusti Ananda Armyawan Rama Putra; 2. Rizqi Mukhammad Nur Muslikhan; 3. Hidayat Widiyanto",
+    "nim": "22660005;22660009;22660020",
+    "pembimbing": "1. Doseen Pembimbing 1; 2. Dosen Pembimbing 2",
+    "tahun": "2025/2026",
+    "angkatan": 2022,
+    "kategori": "Capstone",
+    "abstrak": "Pengelolaan greenhouse secara manual menyebabkan pemborosan waktu perawatan, proses pemupukan yang tidak konsisten, distribusi air dan pupuk yang tidak merata, serta keterbatasan pengelola dalam memantau kondisi lahan dari jarak jauh.",
+    "image": "",
+    "imageGallery": [],
+    "contentUrl": "/content/capstone/capstone-1.md",
+    "demoUrl": null,
+    "laporanUrl": null
+  },
+  {
+    "id": 2,
+    "judul": "Smart Fish Feeder",
+    "mahasiswa": "1. Anggit Yuga Kusuma; 2. Bagas Arya Permana; 3. Muhammad Burhanuddin",
+    "nim": "23660012;23660024;23660007",
+    "pembimbing": "Imadudin Harjanto, S.T., M.Eng.",
+    "tahun": "2025/2026",
+    "angkatan": 2023,
+    "kategori": "Capstone",
+    "abstrak": "Pembudidaya ikan masih melakukan proses pemberian pakan secara manual sehingga membutuhkan tenaga kerja yang cukup besar dan meningkatkan biaya operasional.",
+    "image": "",
+    "imageGallery": [],
+    "contentUrl": "/content/capstone/capstone-2.md",
+    "demoUrl": null,
+    "laporanUrl": null
+  },
+  {
+    "id": 3,
+    "judul": "Sistem Monitoring Mobil Rental Dengan Deteksi Lokasi dan Kecepatan Berbasis Antarmuka Web Dashboard",
+    "mahasiswa": "1. Muhammad Ali Musthofa; 2. Akbar Revi Adha",
+    "nim": "22660001;22660012",
+    "pembimbing": "Imadudin Harjanto, S.T., M.Eng.",
+    "tahun": "2025/2026",
+    "angkatan": 2022,
+    "kategori": "IoT",
+    "abstrak": "Bisnis rental kendaraan menghadapi tingginya risiko penggelapan dan pencurian akibat minimnya sistem monitoring lokasi dan kecepatan kendaraan secara real-time.",
+    "image": "",
+    "imageGallery": [],
+    "contentUrl": "/content/capstone/capstone-3.md",
+    "demoUrl": null,
+    "laporanUrl": null
+  }
+]

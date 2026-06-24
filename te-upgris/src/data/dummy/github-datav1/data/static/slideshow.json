@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "tag": "Program Unggulan",
+    "tagColor": "#f59e0b",
+    "title": "Teknik Elektro-Fakultas Teknik dan Informatika\nUniversitas PGRI Semarang",
+    "subtitle": "Terakreditasi Baik oleh BANPT — melahirkan insinyur elektro yang siap menghadapi tantangan industri 4.0",
+    "meta": "203 Mahasiswa Aktif · IPK Rata-rata 3.32",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=75",
+    "overlayColor": "rgba(10,24,60,0.82)",
+    "ctaPrimary": { "label": "Kenali Prodi", "path": "/profil" },
+    "ctaSecondary": { "label": "Daftar PMB", "url": "https://pmb.upgris.ac.id" }
+  },
+  {
+    "id": 2,
+    "tag": "Capstone Design",
+    "tagColor": "#f59e0b",
+    "title": "Inovasi Nyata\ndari Mahasiswa Kami",
+    "subtitle": "Proyek Capstone Design — solusi rekayasa terapan yang menjawab permasalahan dunia usaha dan industri",
+    "meta": "Bidang: IoT · Energi · Kontrol · Elektronika",
+    "image": "https://images.unsplash.com/photo-1581092921461-7031e4bfb83e?w=1200&q=75",
+    "overlayColor": "rgba(10,30,53,0.82)",
+    "ctaPrimary": { "label": "Lihat Proyek", "path": "/capstone" },
+    "ctaSecondary": { "label": "Pelajari", "path": "/capstone" }
+  },
+  {
+    "id": 3,
+    "tag": "Penelitian & PkM",
+    "tagColor": "#4ade80",
+    "title": "Riset Berdampak\nuntuk Masyarakat",
+    "subtitle": "Dosen dan mahasiswa aktif meneliti dan mengabdi — didanai Dikti, mitra industri, dan lembaga internasional",
+    "meta": "18+ Publikasi · 20+ Mitra · 4 Prestasi Nasional",
+    "image": "https://images.unsplash.com/photo-1562564055-71e051d33c19?w=1200&q=75",
+    "overlayColor": "rgba(15,42,30,0.85)",
+    "ctaPrimary": { "label": "Lihat Penelitian", "path": "/penelitian" },
+    "ctaSecondary": { "label": "Mitra Kerjasama", "path": "/penelitian" }
+  },
+  {
+    "id": 4,
+    "tag": "Dosen Kompeten",
+    "tagColor": "#a78bfa",
+    "title": "Dibimbing oleh\nPakar Bersertifikasi",
+    "subtitle": "8 dosen tetap berpengalaman dengan sertifikasi PII & BNSP, aktif di SINTA dan Google Scholar",
+    "meta": "8 Dosen Tetap · Sertifikasi Profesi PII & BNSP",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=75",
+    "overlayColor": "rgba(26,10,46,0.85)",
+    "ctaPrimary": { "label": "Lihat Profil Dosen", "path": "/dosen" },
+    "ctaSecondary": { "label": "Bidang Keahlian", "path": "/dosen" }
+  }
+]
