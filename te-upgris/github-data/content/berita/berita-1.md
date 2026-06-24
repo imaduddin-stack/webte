@@ -1,31 +1,31 @@
-# Mahasiswa TE UPGRIS Raih Juara 1 Kontes Robot Indonesia 2025
+## Program Studi Teknik Elektro UPGRIS Lakukan Benchmarking Pengelolaan Sarana Laboratorium di Universitas Teknologi Yogyakarta
 
-Tim mahasiswa Program Studi Teknik Elektro Universitas PGRI Semarang (TE UPGRIS) berhasil menorehkan prestasi gemilang pada ajang **Kontes Robot Indonesia (KRI) 2025** tingkat nasional yang diselenggarakan di Institut Teknologi Sepuluh Nopember (ITS) Surabaya, 8–10 November 2025.
+**Semarang** – Dalam rangka memperkuat sarana dan meningkatkan kualitas pengelolaan laboratorium, Program Studi Teknik Elektro Universitas PGRI Semarang (UPGRIS) telah menyelenggarakan kegiatan Benchmark Pengelolaan Sarana Laboratorium Teknik Elektro di Universitas Teknologi Yogyakarta (UTY).
 
-## Tim Pemenullg
+Kegiatan benchmark ini merupakan bagian dari upaya berkelanjutan untuk meningkatkan standar akademik dan kompetensi mahasiswa Teknik Elektro UPGRIS. Dosen-dosen Program Studi dihadirkan untuk mempelajari best practices dalam pengelolaan laboratorium, pembuatan modul praktikum, serta strategi pengembangan sumber daya manusia di bidang teknik elektro.
 
-Tim yang beranggotakan empat mahasiswa semester 7 ini berhasil mengalahkan 48 tim dari berbagai perguruan tinggi di seluruh Indonesia dalam kategori **Kontes Robot Abu Indonesia (KRAI)**.
+Selama kunjungan, delegasi UPGRIS disambut dengan antusias oleh Wakil Rektor Universitas Teknologi Yogyakarta dan Ketua Program Studi Teknik Elektro UTY. Mereka memberikan paparan komprehensif mengenai sistem pengelolaan laboratorium yang telah terbukti efektif, inovasi dalam penyusunan modul praktikum, serta program-program pengembangan prestasi dan kompetensi mahasiswa.
 
-- Budi Santoso (Ketua Tim)
-- Andi Wijaya
-- Rizky Permana
-- Sinta Maharani
+> "Kegiatan benchmark ini sangat berharga bagi kami. Kami dapat melihat langsung bagaimana institusi terkemuka seperti UTY mengelola fasilitas laboratorium mereka dan mengintegrasikannya dengan kurikulum yang kuat. Pengalaman ini akan kami implementasikan untuk meningkatkan kualitas pembelajaran praktik di Program Studi Teknik Elektro UPGRIS," ucap salah satu dosen yang hadir.
 
-> "Ini adalah hasil dari latihan intensif selama enam bulan dan bimbingan penuh dari dosen-dosen kami. Kami sangat bangga bisa mengharumkan nama UPGRIS di tingkat nasional." — Budi Santoso
+Beberapa aspek utama yang menjadi fokus diskusi antara lain:
 
-## Spesifikasi Robot
+- **Standar Operasional Prosedur (SOP)** pengelolaan laboratorium
+- **Pengembangan modul praktikum** yang relevan dengan industri
+- **Peningkatan kompetensi mahasiswa** melalui praktik langsung
+- **Strategi pengelolaan sumber daya laboratorium** yang efisien dan berkelanjutan
 
-Robot yang dikembangkan menggunakan:
+Melalui kegiatan ini, Program Studi Teknik Elektro UPGRIS berkomitmen untuk terus meningkatkan standar pembelajaran praktik, memperkuat infrastruktur laboratorium, dan mempersiapkan mahasiswa dengan keterampilan dan kompetensi yang relevan dengan kebutuhan industri dan masyarakat. Hasil dari benchmark ini akan ditindaklanjuti melalui perencanaan dan implementasi perbaikan berkelanjutan di laboratorium UPGRIS.
 
-1. Mikrokontroler STM32 sebagai unit kontrol utama
-2. Sensor ultrasonik dan kamera untuk navigasi otonom
-3. Algoritma path planning berbasis A-Star
-4. Sistem komunikasi nirkabel 2.4GHz
-
-## Penghargaan
-
-Tim mendapatkan trofi, sertifikat, dan uang pembinaan senilai Rp 15.000.000 dari Kemdikbud RI.
+UPGRIS percaya bahwa kolaborasi dan pertukaran pengalaman dengan institusi pendidikan terkemuka lainnya merupakan kunci untuk mencapai keunggulan akademik dan menghasilkan lulusan yang kompeten serta siap berkontribusi dalam pembangunan bangsa.
 
 ---
 
-Selamat kepada seluruh anggota tim dan para pembimbing atas prestasi luar biasa ini!
+### Informasi Lebih Lanjut
+
+**Program Studi Teknik Elektro**  
+Universitas PGRI Semarang  
+Jl. Semarang No. 1, Semarang 50144  
+Email: teknik.elektro@upgris.ac.id
+
+---
