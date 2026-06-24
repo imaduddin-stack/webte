@@ -6,8 +6,9 @@
         "tanggal": "2026-02-15",
         "ringkasan": "Tim Fakultas Teknik dan Informatika UPGRIS terdiri dari dosen Prodi Teknik Mesin dan Teknik Elektro melaksanakan benchmark di Universitas Teknologi Yogyakarta untuk meningkatkan kualitas pembelajaran dan penelitian di bidang teknik elektro.  ",
         "penulis": "Admin Prodi",
-        "image": "https://drive.usercontent.google.com/download?id=1S6Kg8Ql2hLgtrH0pZT7oDOtL6zneq67w",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/berita-1.jpg",
         "contentUrl": "/content/berita/berita-1.md"
+
     },
     {
         "id": 2,
@@ -16,18 +17,18 @@
         "tanggal": "2025-09-20",
         "ringkasan": "Dosen beserta mahasiswa prodi teknik elektroUPGRIS melakukan faculty exchange ke Nueva Ecija University of Science and Technology (NEUST) Filipina untuk meningkatkan kompetensi dosen dan memperluas jejaring internasional.",
         "penulis": "Admin Prodi",
-        "image": "https://images.unsplash.com/photo-1532094349884-543559c3661a?w=800&q=75",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/berita-2.jpg",
         "contentUrl": "/content/berita/berita-2.md"
     },
     {
         "id": 3,
-        "judul": "Kerjasama MoU dengan PT PLN (Persero) Resmi Ditandatangani",
+        "judul": "Program Studi Teknik Elektro UPGRIS Laksanakan Audit Mutu Internal dengan Peningkatan Signifikan",
         "kategori": "Kerjasama",
-        "tanggal": "2025-09-05",
-        "ringkasan": "Program Studi Teknik Elektro UPGRIS resmi menjalin kerjasama dengan PT PLN (Persero) untuk program magang, penelitian bersama, dan rekrutmen lulusan.",
-        "penulis": "Humas Prodi",
-        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=75",
-        "contentUrl": null
+        "tanggal": "2025-10-15",
+        "ringkasan": "Program Studi Teknik Elektro UPGRIS berhasil menyelesaikan Audit Mutu Internal (AMI) yang dipimpin oleh Dr. Rosalina Boru Ginting dari Lembaga Penjaminan Mutu UPGRIS. Audit ini mencapai hasil yang sangat memuaskan dengan perolehan skor 336 dari 400 poin (84%), mengalami peningkatan signifikan dari skor tahun sebelumnya sebesar 320 poin. Peningkatan 16 poin ini mencerminkan komitmen konsisten Program Studi Teknik Elektro dalam memperbaiki sistem penjaminan mutu internal dan standar kualitas akademik, serta menunjukkan dedikasi institusi terhadap akuntabilitas pelaksanaan akademik dan pemenuhan standar akreditasi nasional dan internasional.",
+        "penulis": "Admin Prodi",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/berita-3.jpg",
+        "contentUrl": "/content/berita/berita-3.md"
     },
     {
         "id": 4,
