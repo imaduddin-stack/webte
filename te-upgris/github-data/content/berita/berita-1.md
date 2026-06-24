@@ -5,7 +5,7 @@
 
 Kegiatan benchmark ini merupakan bagian dari upaya berkelanjutan untuk meningkatkan standar akademik dan kompetensi mahasiswa Teknik Elektro UPGRIS. Dosen-dosen Program Studi dihadirkan untuk mempelajari best practices dalam pengelolaan laboratorium, pembuatan modul praktikum, serta strategi pengembangan sumber daya manusia di bidang teknik elektro.
 
-![Benchmark Laboratorium](../../images/berita/uty2.jpg)
+![Benchmark Laboratorium](https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/uty2.jpg)
 
 Selama kunjungan, delegasi UPGRIS disambut dengan antusias oleh Wakil Rektor Universitas Teknologi Yogyakarta dan Ketua Program Studi Teknik Elektro UTY. Mereka memberikan paparan komprehensif mengenai sistem pengelolaan laboratorium yang telah terbukti efektif, inovasi dalam penyusunan modul praktikum, serta program-program pengembangan prestasi dan kompetensi mahasiswa.
 
