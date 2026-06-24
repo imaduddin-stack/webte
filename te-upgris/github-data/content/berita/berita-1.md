@@ -1,7 +1,4 @@
-## Program Studi Teknik Elektro UPGRIS Lakukan Benchmarking Pengelolaan Sarana Laboratorium di Universitas Teknologi Yogyakarta
-
 **Semarang** – Dalam rangka memperkuat sarana dan meningkatkan kualitas pengelolaan laboratorium, Program Studi Teknik Elektro Universitas PGRI Semarang (UPGRIS) telah menyelenggarakan kegiatan Benchmark Pengelolaan Sarana Laboratorium Teknik Elektro di Universitas Teknologi Yogyakarta (UTY).
-
 
 Kegiatan benchmark ini merupakan bagian dari upaya berkelanjutan untuk meningkatkan standar akademik dan kompetensi mahasiswa Teknik Elektro UPGRIS. Dosen-dosen Program Studi dihadirkan untuk mempelajari best practices dalam pengelolaan laboratorium, pembuatan modul praktikum, serta strategi pengembangan sumber daya manusia di bidang teknik elektro.
 
