@@ -1,6 +1,6 @@
 [
     {
-        "id": 98,
+        "id": 97,
         "judul": "Pembekalan Magang Industri Mahasiswa Prodi Teknik Elektro UPGRIS oleh Praktisi Industri",
         "kategori": "Pendidikan",
         "tanggal": "2025-10-15",
@@ -8,6 +8,17 @@
         "penulis": "Admin Prodi",
         "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/PembekalanSogy.jpg",
         "contentUrl": "/content/berita/berita-sogy.md"
+
+    },
+    {
+        "id": 98,
+        "judul": "Dosen Teknik Elektro UPGRIS Berikan Guest Lecture IoT untuk Urban Farming di NEUST Filipina",
+        "kategori": "Kerjasama",
+        "tanggal": "2025-09-17",
+        "ringkasan": "Ir. **Bambang Hadi Kunaryo, S.T., M.T**, dosen Program Studi Teknik Elektro, UPGRIS, telah memberikan materi guest lecture di **Nueva Ecija University of Science and Technology (NEUST)**, Filipina. Kegiatan ini merupakan bagian dari program kerjasama Faculty Exchange antara Program Studi Teknik Elektro UPGRIS dengan NEUST yang dilaksanakan selama periode Agustus hingga September 2025. Guest lecture yang disampaikan oleh Bambang Hadi Kunaryo",
+        "penulis": "Admin Prodi",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/neusbhk.jpg",
+        "contentUrl": "/content/berita/neustbhk.md"
 
     },
     {
