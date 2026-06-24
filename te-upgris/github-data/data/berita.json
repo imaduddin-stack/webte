@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 99,
         "judul": "Benchmark Program Studi Teknik Elektro ke Teknik Elektro Universitas Teknologi Yogyakarta",
         "kategori": "Kerjasama",
         "tanggal": "2026-02-15",
@@ -11,7 +11,7 @@
 
     },
     {
-        "id": 2,
+        "id": 100,
         "judul": "Faculty Exchange ke Nueva Ecija University of Science and Technology (NEUST) Filipina",
         "kategori": "Pendidikan",
         "tanggal": "2025-09-20",
@@ -21,7 +21,7 @@
         "contentUrl": "/content/berita/berita-2.md"
     },
     {
-        "id": 3,
+        "id": 101,
         "judul": "Program Studi Teknik Elektro UPGRIS Laksanakan Audit Mutu Internal dengan Peningkatan Signifikan",
         "kategori": "Kerjasama",
         "tanggal": "2025-10-15",
@@ -29,35 +29,5 @@
         "penulis": "Admin Prodi",
         "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/berita-3.jpg",
         "contentUrl": "/content/berita/berita-3.md"
-    },
-    {
-        "id": 4,
-        "judul": "Workshop IoT & Industri 4.0 Bersama Siemens Indonesia",
-        "kategori": "Akademik",
-        "tanggal": "2025-08-18",
-        "ringkasan": "Prodi TE UPGRIS menyelenggarakan workshop dua hari bertema Implementasi IoT di Industri 4.0 bekerja sama dengan Siemens Indonesia untuk mahasiswa semester 5 dan 6.",
-        "penulis": "Admin Prodi",
-        "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=75",
-        "contentUrl": "/content/berita/berita-4.md"
-    },
-    {
-        "id": 5,
-        "judul": "Pengabdian Masyarakat: Instalasi PLTS di Desa Wisata Bandungan",
-        "kategori": "Pengabdian",
-        "tanggal": "2025-07-10",
-        "ringkasan": "Tim dosen dan mahasiswa TE UPGRIS berhasil menginstalasi sistem panel surya 5kWp di Desa Wisata Bandungan, memberikan akses listrik bersih bagi warga.",
-        "penulis": "Admin Prodi",
-        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=75",
-        "contentUrl": null
-    },
-    {
-        "id": 6,
-        "judul": "Wisuda 2025: 45 Lulusan Teknik Elektro Siap Terjun ke Industri",
-        "kategori": "Akademik",
-        "tanggal": "2025-06-28",
-        "ringkasan": "Sebanyak 45 mahasiswa Teknik Elektro UPGRIS resmi diwisuda pada periode Juli 2025 dengan IPK rata-rata 3.35 dan masa studi rata-rata 4 tahun.",
-        "penulis": "Humas Prodi",
-        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=75",
-        "contentUrl": null
     }
 ]
