@@ -1,4 +1,174 @@
 [
+  {
+    "id": 1,
+    "judul": "Faculty Exchange Teknik Elektro ke Filipina: Membawa Inovasi IoT ke NEUST",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2025-08-15",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS menyelenggarakan faculty exchange ke Nueva Ecija Science and Technology University (NEUST), Filipina. Ir. Bambang Hadi Kunaryo memberikan guest lecture tentang IoT untuk urban farming, sementara mahasiswa Gazy Tara Tsaqif mempresentasikan aktivitas Himpunan Mahasiswa Teknik Elektro.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/faculty-exchange-filipina.jpg",
+    "contentUrl": "/content/berita/faculty-exchange-filipina.md"
+  },
+  {
+    "id": 2,
+    "judul": "Kuliah Umum Capstone Design: Menjembatani Akademik dan Dunia Industri",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2026-04-15",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS menghadirkan kuliah umum dengan pembicara Dr. Munawar Agus Riyadi dari Universitas Diponegoro untuk membekali mahasiswa akhir tentang capstone design yang relevan dengan kebutuhan industri.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/kuliah-umum-capstone-design.jpg",
+    "contentUrl": "/content/berita/kuliah-umum-capstone-design.md"
+  },
+  {
+    "id": 3,
+    "judul": "Workshop Arduino ESP32: Pemberdayaan Kompetensi Mahasiswa IoT",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2025-09-20",
+    "ringkasan": "Himpunan Mahasiswa Teknik Elektro menyelenggarakan workshop pelatihan pemrograman Arduino ESP32 dengan lebih dari seratus peserta untuk meningkatkan kompetensi mahasiswa di bidang Internet of Things.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/workshop-arduino-esp32.jpg",
+    "contentUrl": "/content/berita/workshop-arduino-esp32.md"
+  },
+  {
+    "id": 4,
+    "judul": "Seminar Nasional Otomasi Industri & Energi Terbarukan",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2025-10-15",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS menyelenggarakan seminar nasional dengan menghadirkan Ir. Mochammad Facta, S.T., M.T., Ph.D. sebagai pembicara utama untuk membahas otomasi industri dan energi terbarukan.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/seminar-nasional-otomasi-energi.jpg",
+    "contentUrl": "/content/berita/seminar-nasional-otomasi-energi.md"
+  },
+  {
+    "id": 5,
+    "judul": "Sarasehan Mahasiswa-Dosen: Membangun Persepsi Bersama tentang Pembelajaran",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2025-11-10",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS menyelenggarakan sarasehan tahunan antara dosen dan mahasiswa untuk menjaring aspirasi dan saran terkait pelaksanaan pembelajaran dan pengembangan program studi.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/sarasehan-dosen-mahasiswa.jpg",
+    "contentUrl": "/content/berita/sarasehan-dosen-mahasiswa.md"
+  },
+  {
+    "id": 6,
+    "judul": "Collaborative Teaching Elektronika Analogi: Kolaborasi Internasional dalam Pembelajaran",
+    "kategori": "Kegiatan Akademik",
+    "tanggal": "2025-05-10",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS melaksanakan collaborative teaching untuk mata kuliah Elektronika Analogi bersama Universitas Teknologi Mara (UTM) Malaysia dengan dua dosen pengajar dari kedua institusi.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/collaborative-teaching-utm.jpg",
+    "contentUrl": "/content/berita/collaborative-teaching-utm.md"
+  },
+  {
+    "id": 7,
+    "judul": "Benchmark Pengelolaan Laboratorium ke Universitas Teknologi Yogyakarta",
+    "kategori": "Kegiatan Kerjasama",
+    "tanggal": "2025-06-20",
+    "ringkasan": "Tim Program Studi Teknik Elektro UPGRIS melakukan benchmark ke Universitas Teknologi Yogyakarta (UTY) untuk mempelajari best practices pengelolaan laboratorium dan meningkatkan kualitas fasilitas pembelajaran.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/benchmark-laboratorium-uty.jpg",
+    "contentUrl": "/content/berita/benchmark-laboratorium-uty.md"
+  },
+  {
+    "id": 8,
+    "judul": "Focus Group Discussion dengan PT Daiwebo: Menjembatani Kebutuhan Industri dan Kesiapan Mahasiswa",
+    "kategori": "Kegiatan Kerjasama",
+    "tanggal": "2026-06-09",
+    "ringkasan": "Program Studi Teknik Elektro UPGRIS mengadakan FGD dengan PT Daiwebo untuk memahami kebutuhan skill dan kompetensi tenaga kerja dari perspektif industri serta memperbaiki program magang mahasiswa.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/fgd-pt-daiwebo.jpg",
+    "contentUrl": "/content/berita/fgd-pt-daiwebo.md"
+  },
+  {
+    "id": 9,
+    "judul": "Kunjungan Industri ke Kawasan Industri Terpadu Batang: Menjajaki Peluang Kolaborasi Tri Dharma",
+    "kategori": "Kegiatan Kerjasama",
+    "tanggal": "2026-06-09",
+    "ringkasan": "Tiga program studi UPGRIS (Teknik Elektro, Teknik Mesin, Informatika) melakukan kunjungan industri ke Kawasan Industri Terpadu Batang untuk menjajaki peluang kolaborasi dalam kegiatan magang, KKL, dan penelitian.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/kunjungan-kawasan-batang.jpg",
+    "contentUrl": "/content/berita/kunjungan-kawasan-batang.md"
+  },
+  {
+    "id": 10,
+    "judul": "Tim Robot ATOM UPGRIS Meraih Peringkat 4 Besar Kontes Robot Indonesia 2025",
+    "kategori": "Capaian Prestasi",
+    "tanggal": "2026-07-08",
+    "ringkasan": "Mahasiswa Teknik Elektro UPGRIS, Tazkiya Nafsil Muna, bersama tim robotik ATOM meraih prestasi luar biasa dengan menjadi peringkat 4 besar dalam Kontes Robot Indonesia 2025 di Institut Teknologi Bandung.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/robot-atom-kontes.jpg",
+    "contentUrl": "/content/berita/robot-atom-kontes.md"
+  },
+  {
+    "id": 11,
+    "judul": "Penghargaan Favourite Award di BRIN Exhibition on Smart Technology untuk Inovasi Computer Vision",
+    "kategori": "Capaian Prestasi",
+    "tanggal": "2026-06-09",
+    "ringkasan": "Tim CyberStrom yang beranggotakan tiga mahasiswa Teknik Elektro (Tazkiya Nafsil Muna, Kurniawati Ditya Nirmala, Rizky Cahya Maulana) meraih Favourite Award di BRIN Exhibition atas inovasi Contactless Robotic Hand Teleoperation System.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/cyberstrom-brin-award.jpg",
+    "contentUrl": "/content/berita/cyberstrom-brin-award.md"
+  },
+  {
+    "id": 12,
+    "judul": "PKM Internet LPQ Annur: Meningkatkan Kualitas Konektivitas Digital di Pondok Pesantren",
+    "kategori": "Penelitian & Pengabdian",
+    "tanggal": "2025-07-01",
+    "ringkasan": "Tim PKM gabungan Teknik Elektro dan Teknik Mesin UPGRIS berhasil meningkatkan kualitas jaringan internet LPQ Annur dengan peningkatan RSSI dari 41,38% menjadi 47,78% dan publikasi di jurnal terakreditasi.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/pkm-internet-lpq.jpg",
+    "contentUrl": "/content/berita/pkm-internet-lpq.md"
+  },
+  {
+    "id": 13,
+    "judul": "PKM Perbaikan dan Edukasi Penggunaan Peralatan Audio di Panti Asuhan Fachrudin",
+    "kategori": "Penelitian & Pengabdian",
+    "tanggal": "2025-04-24",
+    "ringkasan": "Tim pengabdian Teknik Elektro UPGRIS melaksanakan PKM untuk memperbaiki peralatan audio dan memberikan edukasi pemeliharaan kepada pengelola Panti Asuhan Fachrudin yang melayani lebih dari 300 anak asuh.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/pkm-audio-panti-asuhan.jpg",
+    "contentUrl": "/content/berita/pkm-audio-panti-asuhan.md"
+  },
+  {
+    "id": 14,
+    "judul": "Penelitian Fuzzy Logic untuk Penilaian Kualitas Air: Inovasi Sistem Monitoring Air Tanah",
+    "kategori": "Penelitian & Pengabdian",
+    "tanggal": "2025-08-01",
+    "ringkasan": "Tim peneliti Teknik Elektro mengembangkan sistem fuzzy logic untuk monitoring kualitas air sumur dengan akurasi tinggi (pH: 87,5%, TDS: 98,45%, suhu: 99,52%) dan publikasi buku ajar serta jurnal ilmiah.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/penelitian-fuzzy-logic-air.jpg",
+    "contentUrl": "/content/berita/penelitian-fuzzy-logic-air.md"
+  },
+  {
+    "id": 15,
+    "judul": "Penelitian Stadiometer Digital: Inovasi untuk Deteksi Dini Risiko Stunting pada Anak",
+    "kategori": "Penelitian & Pengabdian",
+    "tanggal": "2025-10-01",
+    "ringkasan": "Tim peneliti Teknik Elektro mengembangkan stadiometer digital untuk deteksi dini stunting anak dengan sensor presisi tinggi dan sistem komputerisasi, dipublikasikan di Jurnal Electrician Sinta 4.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/penelitian-stadiometer-digital.jpg",
+    "contentUrl": "/content/berita/penelitian-stadiometer-digital.md"
+  },
+  {
+    "id": 16,
+    "judul": "Sosialisasi Program Pengabdian: Transformasi Digital dalam Sistem Agro-Fishery Terpadu",
+    "kategori": "Penelitian & Pengabdian",
+    "tanggal": "2026-06-07",
+    "ringkasan": "Program Studi Teknik Elektro meluncurkan sosialisasi pengabdian untuk transformasi digital sektor agro-fishery di Desa Bojongsalam dengan workshop praktis tentang sensor tanah, irigasi otomatis, dan monitoring lingkungan.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/sosialisasi-agro-fishery.jpg",
+    "contentUrl": "/content/berita/sosialisasi-agro-fishery.md"
+  },
+  {
+    "id": 17,
+    "judul": "Kegiatan PMB \"Elektro Berbagi\" di Pondok Pesantren Sultan Alfatah: Memperkenalkan Program Studi kepada Generasi Muda",
+    "kategori": "Penerimaan Mahasiswa Baru",
+    "tanggal": "2026-03-15",
+    "ringkasan": "Mahasiswa Teknik Elektro UPGRIS melakukan kegiatan sosialisasi PMB \"Elektro Berbagi\" di Pondok Pesantren Sultan Alfatah dengan demo praktis dan diskusi informal tentang program studi yang relevan dengan nilai-nilai pesantren.",
+    "penulis": "Admin Prodi",
+    "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/pmb-elektro-berbagi.jpg",
+    "contentUrl": "/content/berita/pmb-elektro-berbagi.md"
+  },
     {
         "id": 97,
         "judul": "Pembekalan Magang Industri Mahasiswa Prodi Teknik Elektro UPGRIS oleh Praktisi Industri",
