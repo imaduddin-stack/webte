@@ -1,4 +1,15 @@
 [
+        {
+        "id": 96,
+        "judul": "Pembekalan Magang Industri Mahasiswa Prodi Teknik Elektro UPGRIS oleh PT Autonics Indonesia",
+        "kategori": "Pendidikan",
+        "tanggal": "2026-07-17",
+        "ringkasan": "Pembekalan magang kepada calon peserta magang industri Teknik ELektro UPGRIS oleh PT Autonics Indonesia, yang bertujuan untuk memberikan wawasan dan keterampilan praktis kepada mahasiswa sebelum mereka memulai magang di perusahaan mitra.",
+        "penulis": "Admin Prodi",
+        "image": "https://raw.githubusercontent.com/imaduddin-stack/webte/refs/heads/main/te-upgris/github-data/images/berita/pembekalan.jpg",
+        "contentUrl": "/content/berita/berita-autonics.md"
+
+    },
     {
         "id": 97,
         "judul": "Pembekalan Magang Industri Mahasiswa Prodi Teknik Elektro UPGRIS oleh Praktisi Industri",

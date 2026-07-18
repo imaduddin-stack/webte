@@ -1,0 +1,22 @@
+No.,Nama Dosen,NIDN/NIDK/ NUPTK,Kategori Dosen,Sarjana / Sarjana Terapan,Magister / Magister Terapan,Doktor/ Doktor Terapan,Bidang Keahlian,Perusahaan / Industri,Kesesuaian dengan Kompetensi Inti PS,Jabatan Akademik,Nomor Sertifikat Pendidik Profesional,Bidang Sertifikasi,Lembaga Penerbit,SKIP (Sertifikat Kompetensi Insinyur Profesional),STRI (Surat Tanda Registrasi Insinyur),Mata Kuliah yang Diampu pada PS yang Diakreditasi,Jenis SDM,Pendidikan Tertinggi,Sertifikat Kompetensi,Unit Kerja
+1,"Dr. Ir. Adhi Kusmantoro, ST, MT",619047301,Dosen Tetap,"Teknik Elektro, USM / Tenaga Listrik","Teknik Elektro, UGM / Tenaga Listrik","Teknik Elektro, ITS / Tenaga Listrik",Tenaga Listrik,,V,Lektor,16106103800617,PII,,,,"Pembangkit Listrik Energi Terbarukan, Teknik Kontrol Digital, Metodologi Penelitian",Dosen,,,
+2,"Ir. Margono, ST, M.Eng",627046102,Dosen Tetap,"Teknik Elektro, UNTIDAR / Tenaga Listrik","Teknik Elektro, UGM / Tenaga Listrik",,Tenaga Listrik,,V,Lektor,17106103809529,SKA Tenaga listrik,LPJK,Insinyur,,"Rangkaian Listrik,
+analisis Tenaga Listrik",Dosen,,,
+3,"Ir. Muhammad Amiruddin, ST., M.Eng",621078403,Dosen Tetap,"Teknik Elektro, UKSW / Sistem Kendali",Teknik Elektro UGM / Sistem Kendali,,Sistem Kendali,,V,Lektor,19106103806753,Otomasi Industri,BNSP,Insinyur,,,Dosen,,,
+4,"Ir. Imadudin Harjanto, S.T., M.Eng",603048001,Dosen Tetap,"Teknik Elektro, UGM / Jaringan Komputer","Teknik Elektro, UGM / Jaringan Komputer",,Jaringan Komputer,,V,Lektor,24106103801100,Otomasi Industri,BNSP,Insinyur,,"Jaringan Komputer, Elektronika Digital, Matematika Diskret",Dosen,,,
+5,"Ir. Bambang Hadi Kunaryo, ST, MT",609067602,Dosen Tetap,"Teknik Elektro, UNDIP / Telekomunikasi","Teknik Elektro, UNDIP / Telekomunikasi",,Telekomunikasi,,V,Asisten Ahli,,IoT,BNSP,Insinyur,0.002.22.1.1.00017073,"Dasar Telekomunikasi, Pengolahan Citra, Teknologi Informasi, Antarmuka dan Arsitektur Komputer, Jaringan komputer",Dosen,,,
+6,"Ir. Irna Farikhah, Ph.D",610018401,Dosen Tetap,"Pendidikan Fisika, UPGRIS","Fisika, UGM / Konversi Energi","Bio-Applications and Systems Engineering, Tokyo University of Agriculture and Technology / Konversi Energi",Konversi Energi,,V,Asisten Ahli,20106103801754,,,Insinyur,,Konversi Energi,Dosen,,,
+7,Dr. Sigit Ristanto,603098102,Dosen Tetap,"Pendidikan Fisika, UGM / Fisika","Pendidikan Fisika, UGM / Fisika","Fisika, UGM / Fisika",Pengolahan Citra,,V,Lektor,15106103805143,IoT,BNSP,,,"Pengolahan Citra, sensor tranduser",Dosen,,,
+8,Dr. Affandi Faisal,608108204,Dosen Tetap,"Fisika, UNS / Material Teknik","Fisika, UGM / Material Teknik","Ilmu Fisika, ITS / Material Teknik",Material Teknik,,V,Lektor Kepala,13106200201749,Asesor Kompetensi,BNSP,,,"Bahan-bahan Listrik, Sensor dan Tranduser, Fisika Listrik",Dosen,,,
+9,"Afeef Kurnia Rahmawan, S.T., M.T.",,Dosen Tetap,"Teknik Elektro, UNDIP / Tenaga Listrik","Teknik Elektro, UNDIP / Tenaga Listrik",,,,,,,,,,,,Dosen,,,
+10,"Ganjar Winasis, S.T., M.T.",,Dosen Tetap,"Teknik Elektro, UNDIP / Elektronika","Teknik Elektro, UNDIP / Elektronika",,,,,,,Otomasi Industri,BNSP,,,,Dosen,,,
+,,,,,,,,,,,,,,,,,Dosen,,,
+,,,,,,,,,,,,,,,,,Dosen,,,
+,,,,,,,,,,,,,,,,,Dosen,,,
+,"Arnidya Kusumaningrum, S.T",,,"Teknik Kelektro, UPGRIS",,,Laboran,,,,,K3,LSP,,,,Tendik,S1,,Prodi
+,"Erna Rosalina, S. Kom",,,"Teknik Informatika, UDINUS",,,Laboran,,,,,Pengelolaan Laboratorium,PSPN,,,,Tendik,S1,,UPPS
+,"Adhi Triswantoro, Amd",,,"Teknik Informatika, UDINUS",,,Laboran,,,,,Web Programer,BNSP,,,,Tendik,S1,,UPPS
+,"Saiful Fahmi, S.Kom., M Kom.",,,"Teknik Informatika, UDINUS","Teknik Informatika, UDINUS",,Teknisi,,,,,Sertifikat Windows Server,TRUST,,,,Tendik,S2,,Institusi
+,"Anif sofyan Purwanto, S.Pd., S.Kom.",,,"Komputer, UPGRIS",,,Teknisi,,,,,Microsoft 365,Microsoft,,,,Tendik,S1,,Institusi
+,"Arifin, S.Pd.",,,"Komputer, UPGRIS",,,Teknisi,,,,,,,,,,Tendik,S1,,Institusi
+,"Ari Sasmita, A. Md",,,"Teknik Mesin, ATS",,,Laboran,,,,,K3,LSP,,,,Tendik,D3,,UPPS

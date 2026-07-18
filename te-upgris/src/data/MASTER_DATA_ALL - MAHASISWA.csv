@@ -1,0 +1,288 @@
+,NIM,NAMA,NO HP,KOTA/KAB,PROVINSI,DOSEN WALI,STATUS,IPK,TOTAL SKS,"TAHUN 
+LULUS",GELOMBANG,PUTARAN,"TANGGAL 
+MASUK","TS
+MASUK","TANGGAL
+LULUS","TS 
+LULUS",NO SERI IJASAH,Lama Studi (Tahun),Lama Studi (Bulan),Lama Studi (Hari),Judul Skripsi,Program,MASA STUDI HARI,MASA STUDI TAHUN,RANGE MS
+1,17660005,Dedi Susanto,,,,,L,,,2024,,,1-Sep-17,TS-8,5/7/2024,TS-2,,,,,,Reguler,2440,"6,7","6,5 < MS <= 8"
+2,17660012,Bahar Juni Santika,,,,,L,,,2024,,,1-Sep-17,TS-8,5/7/2024,TS-2,,,,,,Reguler,2440,"6,7","6,5 < MS <= 8"
+3,17660010,Moh Rizqi Mubarok,,,,,L,,,2024,,,1-Sep-17,TS-8,22-Apr-24,TS-2,,,,,,Reguler,2425,"6,6","6,5 < MS <= 8"
+4,17660004,Jefrica Kurnia Rachmanda,,,,,L,"3,36",,2023,,,1-Sep-17,TS-8,1-Des-23,TS-2,,,,,,Reguler,2282,"6,3","5,5 < MS <= 6,5"
+5,17660011,Galih Dwi Prasetyo,,,,,L,"3,36",,2023,,,1-Sep-17,TS-8,9-Okt-23,TS-2,,,,,,Reguler,2229,"6,1","5,5 < MS <= 6,5"
+6,18660001,MUHAMMAD FADEL IBRAHIM,088220251994,"Kab, Brebes","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,45",151,2022,3,1,1-Sep-18,TS-7,12-Sep-22,TS-3,202012022000081,4,0,11,STUDI KELAYAKAN SISTEM PEMBANGKIT LISTRIK TENAGA SURYA UNTUK PENERANGAN JALAN UMUM,Reguler,1472,"4,0","3,5 < MS <= 4,5"
+7,18660002,ALDO DWIKI MAHENDRA,082228122695,"Kab, Blora","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,62",155,2023,1,1,1-Sep-18,TS-7,6-Mar-23,TS-3,202012023000066,4,6,5,ANALISA PERBANDINGAN EFISIENSI PEMAKAIAN ENERGI LISTRIK ANTARA PLN DAN GENSET DI POLLUX MALL PARAGON SEMARANG,Kelas Pegawai,1647,"4,5","4,5 < MS <= 5,5"
+8,18660007,MOHAMMAD NURUL AHID,085234230050,"Kab, Pati","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,18",157,2025,3,0,1-Sep-18,TS-7,21-Agu-25,TS-1,061038202012025100011,6,11,20,PREDIKSI HARGA BERAS MENGGUNAKAN JARINGAN SYARAF TIRUAN DENGAN ALGORITMA LONG SHORT TERM MEMORY,Reguler,2546,"7,0","6,5 < MS <= 8"
+9,18660004,BAYU YULIANTO,085742128704,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,27",157,2023,1,1,1-Sep-18,TS-7,21-Mar-23,TS-3,202012023000073,4,6,20,ANALISA PENGARUH PEMBEBANAN TERHADAP UPS DI RUMAH SAKIT CHARLIE SEMARANG,Reguler,1662,"4,6","4,5 < MS <= 5,5"
+10,18660005,SLAMET WIDODO,082326211310,"Kab, Demak","Prop, Jawa Tengah","Ken Hasto, ST,,MT,",M,"2,59",48,,,,1-Sep-18,TS-7,,,,0,0,0,,Kelas Pegawai,,,
+11,18660010,KRISNASARI,081328406865,"Kab, Semarang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"2,91",147,2025,3,0,1-Sep-18,TS-7,21-Agu-25,TS-1,061038202012025100012,6,11,20,PERANCANGAN JARINGAN RT/RW NET DENGAN INTEGRASI SERVER OFFLINE UNTUK WILAYAH DENGAN KETERBATASAN AKSES INTERNET,Reguler,2546,"7,0","6,5 < MS <= 8"
+12,21660002,FAHREL MAY INZAGI,085322039064,"Kab, Batang","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,62",160,2025,3,0,9/1/2021,TS-4,21-Agu-25,TS-1,061038202012025100015,3,11,20,SISTEM MONITORING CUACA BERBASIS IOT MENGGUNAKAN ESP32 DAN WHATSAPP UNTUK EFEKTIVITAS PENJEMURAN KERUPUK,Reguler,1450,"4,0","3,5 < MS <= 4,5"
+13,21660004,LISA INDRIYANI,085781917955,"Kab, Kendal","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,9",160,2025,3,0,9/1/2021,TS-4,21-Agu-25,TS-1,061038202012025100016,3,11,20,SISTEM DETEKSI PLAT NOMOR KENDARAAN OTOMATIS DENGAN ALGORITMA YOLOV8 DAN OCR,Reguler,1450,"4,0","3,5 < MS <= 4,5"
+14,21660006,MIN IBNI JAHRI,0895360348066,"Kab, Brebes","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,64",160,2025,3,0,9/1/2021,TS-4,21-Agu-25,TS-1,061038202012025100017,3,11,20,RANCANG BANGUN SISTEM KEANGGOTAAN BERBASIS RFID TERINTEGRASI FIREBASE PADA KEDAI UNALOME COFFEE,Reguler,1450,"4,0","3,5 < MS <= 4,5"
+15,19660003,ZYDAN IRGI FAHREZY,088214854656,"Kab, Batang","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,25",149,2025,3,0,1-Sep-19,TS-6,19-Agu-25,TS-1,061038202012025100013,5,11,18,Modul Pembangkit Listrik Tenaga Bayu (PLTB)Turbin Angin,Reguler,2179,"6,0","5,5 < MS <= 6,5"
+16,18669001,NAPINUS ESEMA,081215539697,"Kab, Yahukimo","Prop, Papua","Margono, ST,, M,Eng",L,"2,76",151,2022,1,1,1-Sep-18,TS-7,24-Jan-22,TS-4,202012022000043,3,4,25,EFISIENSI SOLAR CELL PADA PEMBANGKIT LISTRIK TENAGA SURYA (PLTS) DI UNIVERSITAS PGRI SEMARANG,Reguler,1241,"3,4","3,5 < MS <= 4,5"
+17,18660011,HOPPE KHOIRU MUBAROK,089636011956,"Kab, Pemalang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,23",154,2023,1,1,1-Sep-18,TS-7,6-Mar-23,TS-3,202012023000080,4,6,5,ANALISIS PENGARUH PURIFIKASI (FILTERING) TERHADAP KUALITAS TEGANGAN TEMBUS MINYAK TRANSFORMATOR,Reguler,1647,"4,5","4,5 < MS <= 5,5"
+18,19660011,SALOOM PANDU WIDJAYA,0895383132169,"Kab, Grobogan","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,21",151,2025,3,0,1-Sep-19,TS-6,19-Agu-25,TS-1,061038202012025100014,5,11,18,SISTEM MONITORING PANEL SURYA BERBASIS INTERNET OF THINGS MENGGUNAKAN SENSOR INA219,Reguler,2179,"6,0","5,5 < MS <= 6,5"
+19,21660003,REZA MAULIDIN,08974235966,"Kab, Batang","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,81",160,2025,3,0,9/1/2021,TS-4,19-Mei-25,TS-1,061038202012025100008,3,8,17,PID Controller-based Simulations to Control the Inverter Voltage for Enhancement of the Power on Microgrid,Reguler,1356,"3,7","3,5 < MS <= 4,5"
+20,21660011,BAYU RAHMAD NUGROHO,0895346255129,Kota Semarang,"Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,7",160,2025,3,0,9/1/2021,TS-4,19-Mei-25,TS-1,061038202012025100009,3,8,17,Improvement of AC Bus Voltage Stability with Current Control Inverter,Reguler,1356,"3,7","3,5 < MS <= 4,5"
+21,18660015,AGUNG PRAKUSO,085226370369,"Kab, Kendal","Prop, Jawa Tengah","Ken Hasto, ST,,MT,",M,"2,69",59,,,,1-Sep-18,TS-7,,,,0,0,0,,Kelas Pegawai,,,
+22,18660016,MUHAMMAD FAIQ ROY,081329874255,"Kab, Demak","Prop, Jawa Tengah",",",M,"1,5",16,,,,1-Sep-18,TS-7,,,,0,0,0,,Kelas Pegawai,,,
+23,18666002,BREGUD WIYANTO SAPUTRO,081329134054,Kota Semarang,"Prop, Jawa Tengah","Ken Hasto, ST,,MT,",M,"3,19",135,,,,1-Sep-18,TS-7,,,,0,0,0,,Kelas RPL,,,
+24,18666001,ANDRI KRISTIYONO,089664318852,,,",",M,"0,25",20,,,,1-Sep-18,TS-7,,,,0,0,0,,Kelas RPL,,,
+25,19660001,ILHAM SOFYANSYAH,082242560692,"Kab, Grobogan","Prop, Jawa Tengah","MARGONO(OFF), S,T,, M, Eng",M,"0,59",22,,,,1-Sep-19,TS-6,,,,0,0,0,,Reguler,,,
+26,22666006,FANDI SAFARIAN,08988518999,Kota Tegal,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,37",150,2025,3,0,9/1/2021,TS-4,25-Apr-25,TS-1,061038202012025100010,2,7,24,PERANCANGAN SISTEM TENAGA SURYA UNTUK PENERANGAN DI MUSHOLA RT 01/RW01 KELURAHAN BANDUNG KECAMATAN TEGAL SELATAN KOTA TEGAL,Kelas RPL,1332,"3,6","3,5 < MS <= 4,5"
+27,19660005,NOVINDRA ODI ARDIANSYAH,087700079418,"Kab, Pati","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,19",145,2025,1,1,1-Sep-19,TS-6,24-Des-24,TS-1,061038202012025100001,5,3,24,PANEL SURYA BERBASIS SISTEM TRACKING DUAL AXIS MENGGUNAKAN SENSOR LDR DAN ARDUINO UNO,Reguler,1941,"5,3","4,5 < MS <= 5,5"
+28,19660004,DWI ADITYA,082352251442,"Kab, Sukamara","Prop, Kalimantan Tengah","Margono, ST,, M,Eng",A,"2,84",147,,,,1-Sep-19,TS-6,,,,0,0,0,,Reguler,,,
+29,20660018,BIMA ANDI PRATAMA,085740125453,"Kab, Pati","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,15",152,2025,1,1,9/1/2020,TS-5,20-Des-24,TS-1,061038202012025100004,4,3,19,Perancangan Sistem Monitoring Penggunaan Air PDAM Untuk Mempermudah Pencatatan Petugas Berbasis Bluetooth,Reguler,1571,"4,3","3,5 < MS <= 4,5"
+30,19660006,AHMAD SAFRUDIN,088232906799,"Kab, Rembang","Prop, Jawa Tengah","Margono, ST,, M,Eng",A,"3,04",155,,,,1-Sep-19,TS-6,,,,0,0,0,,Reguler,,,
+31,19660007,WAHYU TEGUH LAKSONO,089606784541,Kota Semarang,"Prop, Jawa Tengah","Margono, ST,, M,Eng",A,,,,,,1-Sep-19,TS-6,,,,0,0,0,,Kelas Pegawai,,,
+32,19660008,FARHAN DIFA ADE NUGRAHA,085329266284,"Kab, Boyolali","Prop, Jawa Tengah","Margono, ST,, M,Eng",M,"0,09",22,,,,1-Sep-19,TS-6,,,,0,0,0,,Reguler,,,
+33,20660015,ABDUL LATIF,0895618811090,"Kab, Pati","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,6",155,2025,1,1,9/1/2020,TS-5,25-Nov-24,TS-1,061038202012025100003,4,2,25,SISTEM PALANG PINTU PARKIR OTOMATIS DENGAN AKSES KARTU TANDA MAHASISWA MENGGUNAKAN RFID-RC522,Reguler,1546,"4,2","3,5 < MS <= 4,5"
+34,22666008,MUHAMMAD GHIFARI,088221629771,"Kab, Pati","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,36",151,2025,1,1,9/1/2021,TS-4,25-Nov-24,TS-1,061038202012025100006,2,2,26,Komparasi Nilai Impedansi dan Pengaruhnya Terhadap Fungsi Pada Produk Antenna Keyless 4L45W (Studi Kasus PT Aisin Indonesia Automotive),Kelas RPL,1181,"3,2","3,5 < MS <= 4,5"
+35,22660030,FEBRINAWAN,087738167967,"Kab, Pati","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,23",150,2025,1,1,2/1/2023,TS-3,22-Nov-24,TS-1,061038202012025100005,1,9,21,Perancangan Sistem Instalasi Listrik President Room Rumah Sakit Mitra Bangsa Pati,Kelas Pegawai,660,"1,8","3,5 < MS <= 4,5"
+36,19669001,SODIKIN,,,,",",M,,,,,,1-Sep-19,TS-6,,,,0,0,0,,Kelas Pegawai,,,
+37,19660014,NAZZIL ROMADHONI,082138039263,Kota Semarang,"Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,59",152,2025,,0,2/1/2020,TS-6,22-Des-25,TS,061038202012026100001,5,10,20,"JARINGAN SARAF TIRUAN UNTUK PREDIKSI KONSUMSI ENERGI LISTRIK PADA PT, MITRA EMAS LESTARI MENGGUNAKAN MATLAB DENGAN ALGORITMA RADIAL BASIS FUNCTION (RBF)",Kelas Pegawai,2151,"5,9","5,5 < MS <= 6,5"
+38,19660012,CLAUDYO RIZKY PRAMUDITA,088232699204,Kota Semarang,"Prop, Jawa Tengah","MARGONO(OFF), S,T,, M, Eng",M,"1,4",20,,,,2/1/2020,TS-6,,,,0,0,0,,Kelas Pegawai,,,
+39,19660013,ANDIKA PRAMUDYA,089669932760,"Kab, Demak","Prop, Jawa Tengah","Margono, ST,, M,Eng",A,"3,15",142,,,,2/1/2020,TS-6,,,,0,0,0,,Kelas Pegawai,,,
+40,20660001,CHAFID FAJAR ROSA MAULANA,081225581368,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",M,"3,41",64,,,,9/1/2020,TS-5,,,,0,0,0,,Reguler,,,
+41,20660008,LEMI JOSIE ZANUBA,087832045468,"Kab, Pemalang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,14",154,2025,1,1,9/1/2020,TS-5,15-Nov-24,TS-1,061038202012025100002,4,2,15,Penggunaan APD Terhadap Kecelakaan Kerja Pada Pekerjaan Bertegangan Listrik Di PT PLN Persero Pemalang,Reguler,1536,"4,2","3,5 < MS <= 4,5"
+42,22666011,KHOIRIL ANWAR,085333345717,"Kab, Demak","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,36",151,2025,1,1,9/1/2021,TS-4,9-Okt-24,TS-1,061038202012025100007,2,1,8,Penerapan Algoritma Fuzzy Mamdani Terhadap Penentuan Modulus Young Kain Spandex,Kelas RPL,1134,"3,1","3,5 < MS <= 4,5"
+43,20660004,ASEP HIDAYAT,089509306287,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",M,"2,39",59,,,,9/1/2020,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+44,20660005,ANITA KURNIA ZULYANI,08812939029,"Kab, Grobogan","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,27",156,2025,,0,9/1/2020,TS-5,24-Des-25,TS,061038202012026100004,5,3,23,Studi Kelayakan Instalasi Listrik Rumah Tinggal Kecamatan Grobogan Kabupaten Grobogan,Kelas Pegawai,1940,"5,3","4,5 < MS <= 5,5"
+45,22660029,ANGGA NUR KHOLIM,082237484396,"Kab, Pati","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,64",150,2024,3,1,2/1/2023,TS-3,19-Agu-24,TS-2,061038202012024100001,1,6,18,"ANALISA BREAKDOWN PROSES MESIN PRODUKSI KACANG TELUR DENGAN METODE FMEA DAN FTA (STUDI KASUS PT, GARUDAFOOD PUTRA PUTRI JAYA TBK)",Kelas Pegawai,565,"1,5","3,5 < MS <= 4,5"
+46,20660007,AGUNG HERRY KUNCORO,085717833468,"Kab, Demak","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"2,74",145,,,,9/1/2020,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+47,20660006,TRI WAHYU IMAM SANTOSO,081573130085,"Kab, Kendal","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,69",150,2024,3,1,9/1/2020,TS-5,12-Agu-24,TS-2,202012024000119,3,11,11,Potensi Sumber Energi Listrik Baru dan Terbarukan di Provinsi Jawa Tengah,Reguler,1441,"3,9","3,5 < MS <= 4,5"
+48,20660009,ANDRI NUGROHO ADIMAS SULISTIANTO,081353721161,"Kab, Demak","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"3,34",158,,,,9/1/2020,TS-5,,,,0,0,0,,Reguler,,,
+49,20660010,MOH DAFA RIZKI SETIAWAN,08985516967,"Kab, Kendal","Prop, Jawa Tengah","Agnita Siska P,, M,Pd,, M,Sc,",A,"1,2",22,,,,9/1/2020,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+50,20669004,NUR AHMAD KRESNA WIJAYA,085725446040,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,53",152,2023,1,1,9/1/2020,TS-5,6-Mar-23,TS-3,202012023000103,2,6,4,MONITORING DAYA PANEL SURYA DENGAN THING SPEAK,Kelas Pegawai,916,"2,5","3,5 < MS <= 4,5"
+51,20669001,HARUN ABDUL ROSID,08990038308,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,4",152,2023,1,1,9/1/2020,TS-5,6-Jan-23,TS-3,202012023000097,2,4,6,SIMULASI DESAIN SISTEM KENDALI PADA TURBIN ANGIN BERSKALA MIKRO THE SKY DANCER 500 W,Kelas Pegawai,857,"2,3","3,5 < MS <= 4,5"
+52,20660002,ISMAIL AL FARUQI,08973437555,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,53",154,2024,3,1,9/1/2020,TS-5,9-Agu-24,TS-2,202012024000096,3,11,8,DESIGN DRY CABINET MENGGUNAKAN MICROCONTROLLER ESP 32,Reguler,1438,"3,9","3,5 < MS <= 4,5"
+53,20669003,NOVITA RUSDYANA,085600607155,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"3,59",146,,,,9/1/2020,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+54,20660003,TEERIS ARDIYANTO,088215220507,"Kab, Jepara","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,51",148,2024,3,1,9/1/2020,TS-5,9-Agu-24,TS-2,202012024000102,3,11,8,Desain Pembangkit Listrik Tenaga Bayu (PLTB) Dengan Turbin Angin Vertikal,Reguler,1438,"3,9","3,5 < MS <= 4,5"
+55,20660016,MAHENDRA GESID PRATAMA,089681258087,"Kab, Pati","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"2,97",166,,,,9/1/2020,TS-5,,,,0,0,0,,Reguler,,,
+56,18660014,"M, TOVA MAULANA IRVAN",082329420802,"Kab, Brebes","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,27",154,2024,3,1,1-Sep-18,TS-7,15-Jul-24,TS-2,202012024000089,5,10,14,PERENCANAAN SISTEM FIRE ALARM DAN HYDRAN PEMADAMAN KEBAKARAN PADA TOSERBA YOGYA PEKALONGAN,Reguler,2144,"5,9","5,5 < MS <= 6,5"
+57,20669005,DONY AJI SUMEDA,081226335974,"Kab, Pati","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"1,71",21,,,,9/1/2020,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+58,20660019,ARIE MUHAMMAD SIDIQ,085773191033,"Kab, Klaten","Prop, Jawa Tengah","Margono, ST,, M,Eng",A,"2,52",61,,,,2/1/2021,TS-5,,,,0,0,0,,Kelas Pegawai,,,
+59,20669006,TEOFANI PUTRA PAMUNGKAS,089605934040,"Kab, Jepara","Prop, Jawa Tengah","Margono, ST,, M,Eng",A,"2,74",163,,,,2/1/2021,TS-5,,,,0,0,0,,Reguler,,,
+60,20669007,MUHAMMAD FARCHAN ABDUSSAALAM,089675991019,Kota Semarang,"Prop, Jawa Tengah","Margono, ST,, M,Eng",A,"2,99",101,,,,2/1/2021,TS-5,,,,0,0,0,,Reguler,,,
+61,19660010,ZIDAN AFFAN FATUR,085225487470,"Kab, Jepara","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,24",155,2024,3,1,1-Sep-19,TS-6,24-Jun-24,TS-2,202012024000126,4,9,24,DESAIN MODUL PEMBANGKIT LISTRIK TENAGA SURYA (PLTS) UNTUK LAB TENAGA LISTRIK UNIVERSITAS PGRI SEMARANG,Reguler,1758,"4,8","4,5 < MS <= 5,5"
+62,21660001,HUSAIN AHMAD ALFARISI,083899618627,"Kab, Pemalang","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",M,"3,54",64,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+63,18660003,ALFANUR FATKHIATUR RIZQI,0895321096391,"Kab, Pemalang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,17",158,2024,2,1,1-Sep-18,TS-7,22-Apr-24,TS-2,202012024000034,5,7,22,Perencanaan alat penyiraman tanaman otomatis berbasis pid dengan monitoring iot,Reguler,2060,"5,6","5,5 < MS <= 6,5"
+64,18660008,KHALIF ZUSRIFAL,082119814908,"Kab, Semarang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,19",160,2024,2,1,1-Sep-18,TS-7,22-Apr-24,TS-2,202012024000041,5,7,22,STUDI ANALISA PENGGUNAAN BATERAI LI-ION DAN LI-PO PADA SISTEM IOT HIDROPONIK,Reguler,2060,"5,6","5,5 < MS <= 6,5"
+65,18660013,FACHRUDIN,081387654269,"Kab, Rembang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,47",158,2024,2,1,1-Sep-18,TS-7,22-Apr-24,TS-2,202012024000058,5,7,22,Implementasi Pengering Pakaian Menggunakan Burner Cramic Inflared Gas LPG dengan Metode PID pada Industri Rumahan,Reguler,2060,"5,6","5,5 < MS <= 6,5"
+66,21660005,KINANTI RIZKIA NANDA PUTRI,085713838206,"Kab, Banjarnegara","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,66",158,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+67,19660009,AHMAD HABIB MAULANA,+62895412650584,"Kab, Pati","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,27",159,2024,2,1,1-Sep-19,TS-6,22-Apr-24,TS-2,202012024000027,4,7,22,DESAIN INTERNET OF THINGS UNTUK MONITORING LAMPU JALAN DI LENGKAPI DENGAN SENSOR GERAK PASSIVE INFRA RED,Reguler,1695,"4,6","4,5 < MS <= 5,5"
+68,21660007,KAHFI SUKMA WIDI,088988918711,"Kab, Semarang","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,54",152,2025,,0,9/1/2021,TS-4,22-Des-25,TS,061038202012026100002,4,3,22,Rancang Bangun Sistem Keamanan Parkir Otomatis Terintegrasi Menggunakan Arduino Mega,Reguler,1573,"4,3","3,5 < MS <= 4,5"
+69,21660014,MUHAMMAD HABIB IKHSAN,089685593822,"Kab, Kendal","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,55",158,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+70,21660008,MUHAMMAD CAESAR ABHISTA RAYA BIMA SAPUTRA,082137671982,Kota Semarang,"Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,62",150,2025,,0,9/1/2021,TS-4,24-Des-25,TS,061038202012026100003,4,3,24,IMPLEMENTASI DAN OPTIMASI SISTEM PARKIR TERINTEGRASI MENGGUNAKAN YOLO DAN CNN PADA LINGKUNGAN EDGE COMPUTING BERBASIS RASPBERRY PI,Reguler,1575,"4,3","3,5 < MS <= 4,5"
+71,21660009,PUSPA JIWA PARAHITA YUNTA,089651889626,"Kab, Kendal","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",L,"3,82",158,2026,,,9/1/2021,TS-4,23-Apr-26,TS,,0,0,0,,Reguler,1695,"4,6","4,5 < MS <= 5,5"
+72,21660010,MUHAMAD FAIZAL,085772145232,"Kab, Pekalongan","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,7",158,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+73,20669008,ARNIDYA KUSUMANINGRUM,0895354777732,Kota Semarang,"Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,52",150,2024,1,1,2/1/2021,TS-5,21-Des-23,TS-2,202012023001421,2,10,19,PENINGKATAN KINERJA MOTOR DC MENGGUNAKAN PID HYBRID,Reguler,1053,"2,9","3,5 < MS <= 4,5"
+74,21669001,"M, HIDAYAT PRIYANDA",089536024691,Kota Banjarbaru,"Prop, Kalimantan Selatan","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"2,68",81,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+75,21666001,MOCHAMAD REZA ADAM PAHLEVI,082242151041,"Kab, Klaten","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,24",152,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+76,21666002,ANANTIA RESMAWATI,081253370578,"Kab, Kendal","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",A,"2,53",119,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+77,21660012,GAMA TRI ARIYANTO,082323787420,"Kab, Kendal","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,3,148,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+78,21660013,MUHAMMAD ALI SAFRUDI,081327395920,"Kab, Demak","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"2,63",99,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+79,21666003,DONY ABADESA,085701577008,"Kab, Cilacap","Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,02",157,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+80,20669002,MUHAMMAD AMIR MA'RUF,0895380146841,"Kab, Pekalongan","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,27",157,2024,1,1,9/1/2020,TS-5,18-Des-23,TS-2,202012023001414,3,3,17,ANALISIS PERBANDINGAN DESAIN PEMBANGKIT TEGANGAN SYSTEM DC TO DC CONVERTER dan KONVENSIONAL,Kelas Pegawai,1203,"3,3","3,5 < MS <= 4,5"
+81,22660001,MUHAMMAD ALI MUSTHOFA,088238683935,"Kab, Pati","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,54",151,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+82,22660002,SOFIYULLAH BAGUS SATRIO,085876144556,"Kab, Demak","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,34",143,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+83,22660003,GOSTI ARYA BAGASWARA,08886711634,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,74",146,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+84,22660004,DENI DWI NUR APRILIAWAN,082325130654,"Kab, Blora","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"2,11",40,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+85,22660005,GUSTI ANANDA ARMYAWAN RAMA P,087826062989,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,8",146,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+86,22660006,SIGIT GALIH PRIYAMBODHO,085724873155,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,21",140,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+87,22660007,KRISTO ANDIKA PAMUNGKAS,085877761410,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,34",138,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+88,22660008,RICKARDO BAGAU,082199760163,"Kab, Nabire","Prop, Papua","Muh, Amiruddin, ST,, M,Eng",A,"1,96",107,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+89,22660009,RIZQI MUKHAMMAD NUR MUSLIKHAN,088216539089,"Kab, Demak","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,38",146,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+90,22660010,MUHAMMAD CAHYA ROFIQI,081229234076,"Kab, Magelang","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,69",143,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+91,22660011,CHOIRUL FAHMI,082328644237,"Kab, Batang","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"2,84",139,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+92,22660012,AKBAR REVI ADHA,085162600212,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,82",144,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+93,22660013,COSI WAHID RAMADHANI,085876372087,"Kab, Pemalang","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,32",146,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+94,22660015,KURNIAWAN EKA SAPUTRA,083838599581,"Kab, Kendal","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,35",146,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+95,22660016,IQBAL RAIHAN ZAKY,088233071096,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"2,07",112,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+96,22660017,ANGGA RIZKIANA,085952772629,"Kab, Batang","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,28",143,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+97,22666001,KUKUH NOVI NUR ROCHMAN,081229601062,"Kab, Wonosobo","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,22",151,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+98,22666002,ADVAN KESUMA,081235750496,"Kab, Sidoarjo","Prop, Jawa Timur","Muh, Amiruddin, ST,, M,Eng",A,"3,18",153,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+99,22666003,MUHAMMAD ANWAR AZIZ,085801052032,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"2,21",159,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+100,22660018,EKA BIMA SATRIA,082325278024,"Kab, Boyolali","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,4",151,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+101,22660018,EKA BIMA SATRIA,085778220307,"Kab, Grobogan","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,45",149,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+102,22660020,HIDAYAT WIDIYANTO,082136645776,"Kab, Grobogan","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,53",146,,,,9/1/2021,TS-4,,,,0,0,0,,Reguler,,,
+103,22660021,RIZKY ADITYA PRATAMA,087738101916,Kota Yogyakarta,"Prop, D,I, Yogyakarta","Muh, Amiruddin, ST,, M,Eng",A,"3,46",146,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+104,22666004,IMAM NUR IKHSAN,081291522735,Kota Depok,"Prop, Jawa Barat","Muh, Amiruddin, ST,, M,Eng",A,"3,28",151,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+105,22666005,HENDRIK ALVIAN NUGROHO,087790033385,"Kab, Banjarnegara","Prop, Jawa Tengah",",",A,"3,23",35,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+106,18660006,PRIMA SURYONO,08814185658,"Kab, Grobogan","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,44",154,2024,1,1,1-Sep-18,TS-7,15-Des-23,TS-2,202012023001377,5,3,15,Analisis back-up system sebagai penyuplai daya listrik di gedung central city mall Semarang,Kelas Pegawai,1931,"5,3","4,5 < MS <= 5,5"
+107,22666007,DIMAS ADI SAPUTRA,082322075652,"Kab, Semarang","Prop, Jawa Tengah",",",A,"3,57",59,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+108,22660022,FERDIAN TANWIRUL HUDA,089504848270,"Kab, Demak","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,62",146,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+109,19660002,MUHAMMAD SYARIFUL WAFA,0895413645787,"Kab, Grobogan","Prop, Jawa Tengah","Margono, ST,, M,Eng",L,"3,15",156,2024,1,1,1-Sep-19,TS-6,15-Des-23,TS-2,202012023001384,4,3,15,Rancang Bangun PLTS Menggunakan Battery Management System pada Battery Li - ion 12 volt,Reguler,1566,"4,3","3,5 < MS <= 4,5"
+110,22666009,FEBRYNA FAUZIA LUTHFIANIDA,0895330274369,"Kab, Pati","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",L,"3,61",151,2025,,0,9/1/2021,TS-4,22-Des-25,TS,061038202012025100018,3,3,22,Analisis Susut Umur Transformator Terhadap Efek Pembebanan dan Perubahan Suhu pada Transformator Unit 1 di Gardu Induk 150 KV Pati,Kelas RPL,1573,"4,3","3,5 < MS <= 4,5"
+111,22666010,HEKSA TIARA SASTI,089634283771,"Kab, Kendal","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"1,73",49,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+112,22660023,KRISTIANTO DWI HARIYONO,081227001533,Kota Semarang,"Prop, Jawa Tengah",",",A,"1,02",20,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas Pegawai,,,
+113,22666012,MIFTAHADNANI MAYANGSEKAR SAFITRI,089675040916,Kota Semarang,"Prop, Jawa Tengah",",",A,"3,26",88,,,,9/1/2021,TS-4,,,,0,0,0,,Kelas RPL,,,
+114,22660024,ARIF YUDHA PRATAMA,087850922312,"Kab, Kendal","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"0,98",20,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+115,22660025,MUHAMMAD IQBAL AUFA,082313531033,"Kab, Kudus","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,08",147,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+116,22660026,INDAH DWI PERMATA SARI,085954753480,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,23",148,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+117,22660027,BERSYEBA FRESHADINDYA NAOVELEANY,082243851753,"Kab, Jepara","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,22",155,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+118,22660028,BAMBANG HADI SUPRAYITNO,081911012003,"Kab, Serang","Prop, Banten","MARGONO(OFF), S,T,, M, Eng",A,"1,12",16,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+119,18660009,AHMAD KHUDORI,087730970304,"Kab, Pemalang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,37",154,2024,1,1,1-Sep-18,TS-7,14-Des-23,TS-2,202012023001391,5,3,14,PERANCANGAN PEMBANGKIT LISTRIK HYBRID ( PLN-PLTS-GENSET)PADA TOSERBA YOGYA PEKALONGAN,Reguler,1930,"5,3","4,5 < MS <= 5,5"
+120,18660012,MUHAMMAD DZORIF 'AZUM,087875444787,"Kab, Rembang","Prop, Jawa Tengah","Ir, Imadudin Harjanto, S,T,, M,Eng",L,"3,09",152,2024,1,1,1-Sep-18,TS-7,8-Des-23,TS-2,202012023001407,5,3,8,Analisis penambahan transformator SST sebagai alternatif suplai unit BUS BAR pada PLTU Rembang,Reguler,1924,"5,3","4,5 < MS <= 5,5"
+121,22660031,KOSMAS RECTIO BAGUS H,081332541232,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,61",149,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+122,22660032,ASILLA ADIN HANUN NABILAH,085640657800,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,49",148,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+123,22660033,STEFANUS ANDRIAWAN,081382040294,Kota Semarang,"Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"3,38",149,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+124,22660035,FARID ARDHI INDRASTO,082135407765,"Kab, Rembang","Prop, Jawa Tengah","Muh, Amiruddin, ST,, M,Eng",A,"2,9",145,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+125,22660034,AMIR MULKAN NURHAMID,081272110481,"Kab, Way Kanan","Prop, Lampung","Muh, Amiruddin, ST,, M,Eng",A,"1,53",48,,,,2/1/2023,TS-3,,,,0,0,0,,Kelas Pegawai,,,
+126,23660001,RANGGA ALMAS SAPUTRA,089523277948,"Kab, Demak","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,25",110,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+127,23660004,ARIEL JAWI,089503599600,"Kab, Kendal","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,54",100,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+128,23660005,VETO VEBRIAN NUGROHO,085600521098,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,26",64,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+129,23660003,MUHAMMAD FAHRUL RIFQI,0895361818738,"Kab, Kudus","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"1,55",20,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+130,23660002,PUTRI NUR AMALINA FIRDAUS,081232754420,"Kab, Tulungagung","Prop, Jawa Timur","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,25",110,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+131,23660022,TAUFIK HIDAYAT,088225474831,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,17",107,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+132,23660008,WASIK MUNAWAR,082324346980,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,7",102,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+133,23660012,ANGGIT YUGA KUSUMA,083146647001,"Kab, Pemalang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,56",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+134,23660011,KIKI PURWANTO,089690750170,"Kab, Pemalang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,23",107,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+135,23660009,CAESAR RAKHA ADYAXSA,082242362181,"Kab, Batang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,16",107,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+136,23660015,MUHAMMAD SYAIFUL ROMADLON,082120177909,"Kab, Kudus","Prop, Jawa Tengah",",",A,"1,5",20,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+137,23660006,SYAFIQ SAIFUDIN AL AZHAR,083838951868,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,67",102,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+138,23660007,MUHAMMAD BURHANUDDIN AFIF,0895392082000,"Kab, Rembang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,41",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+139,23660010,TAZKIYA NAFSIL MUNA,089508317700,"Kab, Pati","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,54",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+140,23660013,ZIAN MUTTAQIN,08812621941,"Kab, Pati","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,27",110,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+141,23660020,HIDAYAH DWI PUTRA BARAKA,083843277331,"Kab, Jepara","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,31",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+142,23660016,ZALFAA SYAFRIZAL SURYA PRATAMA,081227933424,"Kab, Tegal","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,33",110,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+143,23660014,GHAZY TARA TSAQIF,081328519645,"Kab, Pemalang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,31",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+144,23660023,FARCHA FAALIH ARDIANSYAH,082323000103,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,79",109,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+145,23660018,ILHAM AIMAR FAJAR,085362018381,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,23",102,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+146,23660019,ANGGRAENY SEKAR KINASIH,085742864277,"Kab, Pekalongan","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,44",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+147,23660026,ADIT LUSANDI,0895413988640,"Kab, Batang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,41",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+148,23660017,MUHAMMAD RIZAL,0895616663060,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,92",104,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+149,23660027,MUHAMMAD ZUSHUF ZUMRONI,088237166100,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,29",110,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+150,23660021,JEPRI SIMANJUNTAK,082274359597,"Kab, Tapanuli Utara","Prop, Sumatera Utara","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,63",91,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+151,23660032,AHMAD AFFAN ARSALAN,087734276097,"Kab, Pati","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,03",107,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+152,23660025,SYAFIQ VAREL MAULANA,087812465940,Kota Balikpapan,"Prop, Kalimantan Timur","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,18",108,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+153,23660024,BAGAS ARYA PERMANA,0882006240169,"Kab, Pati","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,42",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+154,23660028,BAYU FAJAR APRIANTO,081210205634,"Kab, Batang","Prop, Jawa Tengah",",",A,"1,4",20,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+155,23660030,AKBAR MAULANA,081325113481,"Kab, Semarang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,78",109,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+156,23660031,ARDAN RIZQUL BAROK KURNIAWAN,088238615699,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,15",36,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+157,23660033,MARS BRIAN DESTIRTA PUTRA,0895361837684,"Kab, Semarang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,4",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+158,23660034,ASFA DAVI,081327831833,"Kab, Pemalang","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,38",112,,,,9/1/2023,TS-2,,,,0,0,0,,Reguler,,,
+159,23660036,DENNY PRASTYA WIBAWA,089697358543,"Kab, Kudus","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"2,24",92,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+160,23660037,TEGUH HERIYANTO,085641736424,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,83",109,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+161,23660038,MUHAMMAD ALI ZAINAL ABIDIN,081226091282,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,12",103,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+162,23660039,AWALUDIN,082136363607,"Kab, Kendal","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,38",20,,,,9/1/2023,TS-2,,,,0,0,0,,Kelas Pegawai,,,
+163,23666001,MUHAMMAD SYAIFUL ROMADLON,082120177909,"Kab, Kudus","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,29",140,,,,2/1/2024,TS-2,,,,0,0,0,,Kelas RPL,,,
+164,23666002,MUHAMMAD FAHRUL RIFQI ANDREANSAH,0895361818738,"Kab, Kudus","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,14",138,,,,2/1/2024,TS-2,,,,0,0,0,,Kelas RPL,,,
+165,23666003,PONGKY MELIA UTARYA AGUNG,08179530793,Kota Semarang,"Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,2",143,,,,2/1/2024,TS-2,,,,0,0,0,,Kelas RPL,,,
+166,24660001,TSALIS ANWAR YASFIN,0895320999624,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,62",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+167,24660002,SYAHTRYA MUHAMAD DHANANJAYA,081232376134,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,58",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+168,24660003,YOGA HADI SAPUTRA,082138660365,"Kab, Kendal","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,57",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+169,24660004,HARIS ZUNAHAR ALMAS,085799476874,"Kab, Pemalang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,55",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+170,24660005,AHMAD ALIM AL HASAN,082241314620,"Kab, Pati","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,72",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+171,24660006,FAKHRUL DAFFA PUTRA JASENDA,81779555935,"Kab, Rembang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,66",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+172,24660007,MUHAMMAD FITRONI,08163678321,Kota Batam,"Prop, Kepulauan Riau",",",A,"1,32",20,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+173,24660008,ATTHARIQ MECCA HENATA,085882566330,"Kab, Batang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,44",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+174,24660009,SISILIA NAVA BRILLIAN ANGELICA,0895627625566,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,2",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+175,24660010,MIFTAKHUL HUDA IKSANI,0895326370124,"Kab, Rembang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,6",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+176,24660011,SETIO ANGGA SUDIRO,085326938801,"Kab, Pemalang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,14",62,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+177,24660012,LAMBANG DWI JATMOKO,081213064130,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,82",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+178,24660013,DIDIK HARTONO,087776275156,"Kab, Klaten","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,78",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+179,24660014,SILFIA DEA ANANTA,085879028057,"Kab, Pati","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,55",64,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+180,24660015,KURNIAWATI DITYA NIRMALA,083877271451,"Kab, Semarang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,62",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+181,24660016,ABDUL GHOFUR,083897523729,"Kab, Demak","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"2,72",59,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+182,24660017,ANDIKA RESTU MAULANA,0895384029255,"Kab, Kendal","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,64",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+183,24660018,SULKIPLI,081342179606,"Kab, Mamuju","Prop, Sulawesi Barat","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"2,33",40,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+184,24660019,MOCHAMAD NAOFAL RAFIQ PRATAMA,088215082553,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"2,93",59,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+185,24660021,A'AN ASIM RAUL ABDILAH,08812861228,"Kab, Tegal","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,47",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+186,24660022,MOHAMMAD ABDUL AZIS,088239323018,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,72",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+187,24660023,TRI ADITYA RAMADHAN,081225157725,"Kab, Demak","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,54",64,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+188,24666001,GREGORIUS REZA ALUN SAMUDRA,08973890991,"Kab, Sukoharjo","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,4",129,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+189,24666002,CHRISTHOPER GIOVANNI MAMAHIT,082134700139,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,59",152,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+190,24666003,FAJAR AWANTO,085713722457,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,1",125,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+191,24666004,MARIA CONSOLATA ASTRIFERNANDY,082146938183,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"1,94",108,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+192,24666005,KUKUH SETIYAWAN,082242468426,Kota Semarang,"Prop, Jawa Tengah",",",A,,,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+193,24666006,HERI SUSILO,085725724025,"Kab, Bogor","Prop, Jawa Barat","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,35",123,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+194,24660024,ALFIAN AGUS ADIANSYAH,0895366892218,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,55",60,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+195,24660025,AHMAD ZULFIKAR NUR ROZIQIN,0895360322636,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"1,02",20,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+196,24666007,ROMADHONI ALFITRANTO,081325732143,"Kab, Ogan Komering Ulu","Prop, Sumatera Selatan","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,6",109,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+197,24660026,AHNAF SYAFI,088221522987,"Kab, Demak","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"2,87",59,,,,9/1/2024,TS-1,,,,0,0,0,,Reguler,,,
+198,24666008,FRIZKA DWI NOFIANA,085715451359,"Kab, Semarang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,17",109,,,,9/1/2024,TS-1,,,,0,0,0,,Kelas RPL,,,
+199,24666009,AHMAD SUKRON,085150716196,"Kab, Demak","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"2,99",61,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+200,24660027,AKHMAD AHSANUL BANI,0895343177102,"Kab, Kendal","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,33",35,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+201,24666011,ADE WIRAWAN,0895332129717,"Kab, Pati","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,28",120,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+202,24660028,MUHAMMAD AFIF AGUS PRASETYO,087761591327,"Kab, Boyolali","Prop, Jawa Tengah","AAN BURHANUDDIN, S,T,, M,T,",A,"0,89",9,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas Pegawai,,,
+203,24666010,PUTRI JULIANTI BACHTIAR,085877142912,"Kab, Grobogan","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,55",121,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+204,24666012,ARIEF WICAKSONO,089636442497,"Kab, Purbalingga","Prop, Jawa Tengah","Dr, Dr, Ir, Adhi Kusmantoro, S,T,, M,T",A,"3,08",122,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+205,24666013,NANDA YULI AKHIRDIANTO,085800655804,Kota Semarang,"Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,44",86,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+206,24666015,LUKMAN HAKIM,081586587414,"Kab, Semarang","Prop, Jawa Tengah","AFEEF KURNIA RAHMAWAN, S,T,, M,T,",A,"3,46",92,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+207,24666016,JULIUS NOVAN,085740602603,Kota Semarang,"Prop, Jawa Tengah","Ir, Bambang Hadi Kunaryo, S,T,, M,T,",A,"3,86",81,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+208,24666014,PANCA JUNAEFI,085714241207,"Kab, Cilacap","Prop, Jawa Tengah",",",A,"3,58",26,,,,2/1/2025,TS-1,,,,0,0,0,,Kelas RPL,,,
+209,25666001,NUR AFNI FAJARIYANI,0895359057346,"Kab, Tegal","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,69",106,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+210,25666002,HUBERTUS MARCHO EVAN,085729880721,"Kab, Kudus","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,41",101,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+211,25666003,ADIEL KEVIN KHARISTY SATRIAWAN,08994670600,Kota Surakarta,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,3",101,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+212,25666004,RAFI NAUFAL WARDANA,081249630976,Kota Surakarta,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,51",101,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+213,25666005,GISKA ARDHIASANTI,085876841059,Kota Surakarta,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,63",101,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+214,25666006,PRASSANDA DWI ANGGRIAWAN,085176980801,"Kab, Kudus","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,42",104,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+215,25666007,AHMAD FAHRUL KHUZAINI,088988023108,"Kab, Kendal","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,08",86,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+216,25666008,SARI HANDAYANI,085713468967,"Kab, Brebes","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,26",87,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+217,25666009,DIKY WAHYUDI,087729828080,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,42",49,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+218,25666010,MUHAMMAD IMAM SAFI'I,083871716098,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,53",49,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+219,25666011,DIAN SUMARHADI,081236306693,"Kab, Bantul","Prop, D,I, Yogyakarta","GANJAR WINASIS, S,T,, M,T,",A,"3,58",143,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+220,25666012,RULI GUNAWAN,089647955865,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,53",125,,,,9/1/2025,TS,,,,0,0,0,,Kelas RPL,,,
+221,25666017,GIGIH SURYA ABDILAH,082243430747,Kota Salatiga,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+222,25666018,"MUH, IKHWANUDIN",081901776611,"Kab, Kendal","Prop, Jawa Tengah",",",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+223,25666019,SUPANDI K,08124904104,"Kab, Rembang","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+224,25666013,DEVI CHRISTIAN NOVIYANTO,085641923989,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+225,25666014,JANGKUNG AWANG PRAMILA,087844623551,"Kab, Demak","Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,"3,87",19,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+226,25666015,SESA CHANDRA PRASETYO,085770694636,"Kab, Cilacap","Prop, Jawa Tengah",",",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+227,25666016,DIMAS WAHYU ADHI KUSUMA,085640766994,Kota Semarang,"Prop, Jawa Tengah","GANJAR WINASIS, S,T,, M,T,",A,,,,,,2/1/2026,TS,,,,0,0,0,,Kelas RPL,,,
+228,25660001,Ayu Diana Sari,085866767056,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+229,25660002,Muhammad Khalfan,088983246068,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+230,25660003,Irza Hardika Permana,081234640498,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+231,25660004,Rizky Cahya Maulana,085801239404,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+232,25660005,Anggoro Adi Nugroho,082328464058,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+233,25660006,Katon Deni Wijaya,082120157342,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+234,25660007,Rafi Aliffia Rakhman,081211960734,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+235,25660008,Abimanyu Rahmadani Prasetiyo,083134013451,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+236,25660009,Muhamad Lukman Hakim,085226338569,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+237,25660010,Andika Ghufron Choironi,082114616475,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+238,25660011,Muhammad Irfan Al'afin,082314766832,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+239,25660012,Andy Saputra,085975396662,,,,M,,,,,,9/1/2025,TS,,,,,,,,,,,
+240,25660013,Ahmad Muiz Abdulloh,088224950341,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+241,25660014,Yubel Yigibalom,082327631453,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+242,25660015,Bella Aulia Fonesta,088299432265,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+243,25660016,Muhammad Abdillah Ikhsan,083162166768,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+244,25660017,Michael Ilyas Sugiyono,6283817194580,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+245,25660018,Ardiansyah Cartenz Kuncoro,081575874441,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+246,25660019,Wahyu Nur Rizki,082135132706,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+247,25660020,Rizqi Maulana Ibrahim,08970045471,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+248,25660021,Rehan Aringga Syahputra,082145559850,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+249,25660022,Attallah Naufal Gibran,088221349571,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+250,25660023,Setia Saputra,085782955266,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+251,25660024,Ahda Fahrul Hudaya,082285424405,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+252,25660025,Ananda Prastama Wisnu,0895391129880,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+253,25660026,Alvin Iqballudin,082220634438,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+254,25660027,Afief Al Muiz,088224771480,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+255,25660028,Bagas Pramudya Nurrahman,087747935803,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+256,25660029,Muhamad Ilham,081548416599,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+257,25660030,Zainun Ahmadi,085641151164,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+258,25660031,Muhamad Pandu Ihwanudin,085740365226,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+259,25660032,Rifki Apriado Satriochirisma,0895422218686,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+260,25660033,Achmad Zamzam Al Firdaus,081460419109,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+261,25660034,Bembi Dwi Anggoro,088225153117,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+262,25660035,Muhammad Rizqi Firmansyah,082228500378,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+263,25660036,Miftakhul Ni'am,082242254786,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+264,25660037,Putri Fransisca,082220010234,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+265,25660038,Nur Lailatul Jannah,089680590775,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+266,25660039,Raihan Firman Nur Huda,087720975712,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+267,25660040,Rafi Rizki Saputra,083162526240,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+268,25660041,Raden Dafi Azzam Habiburrahman,085715818108,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+269,25660042,Jefa Hasan Afdhollu,085864396534,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+270,25660043,Mahes Putra Pangestu,085640096957,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+271,25660044,Achmad Mahrus Al Adi,085879355112,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+272,25660045,Setia Sukma Bayu Laksono,083150980517,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+273,25660046,Argya Zavioristanto,085738329246,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+274,25660047,Antonius Kiky Ananto,082124248513,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+275,25660048,Syahputra Zulhendri Musa,085624059476,,,,A,,,,,,9/1/2025,TS,,,,,,,,,,,
+276,25660050,Hafizh Dwiky Pristian,0895422428586,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+277,25660051,Arya Bagus Kuncoro,083162165472,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+278,25660052,Rahul Albi Ramadhan,082132604677,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+279,25660053,Muhammad Firdaus Al Fareza,083820904181,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+280,25660054,Rizal Syawallul Huda,083190211957,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+281,25660055,Ahmad Fachri Aditya Prasetyo,0895386027324,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
+282,25660056,Jecky Herdiansyah,085143870288,,,,A,,,,,,2/1/2026,TS,,,,,,,,,,,
