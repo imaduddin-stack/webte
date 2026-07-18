@@ -1,5 +1,5 @@
 
-**SEMARANG** – Dosen Universitas PGRI Semarang (UPGRIS), **Ganjar Winasis** bersama **Bambang Hadi Kunaryo**, berhasil mengembangkan inovasi **stadiometer digital** berbasis mikrokontroler **ESP32** yang dirancang khusus untuk deteksi dini risiko stunting pada anak usia 2–5 tahun. Alat ukur tinggi badan ini menghadirkan modernisasi pengukuran antropometri sesuai standar yang ditetapkan, sehingga lebih akurat, efisien, dan terintegrasi secara digital.
+**SEMARANG** – Dosen Universitas PGRI Semarang (UPGRIS), **Ganjar Winasis** bersama **Bambang Hadi Kunaryo** dan **Afeef Kurnia Rahmawan**, berhasil mengembangkan inovasi **stadiometer digital** berbasis mikrokontroler **ESP32** yang dirancang khusus untuk deteksi dini risiko stunting pada anak usia 2–5 tahun. Alat ukur tinggi badan ini menghadirkan modernisasi pengukuran antropometri sesuai standar yang ditetapkan, sehingga lebih akurat, efisien, dan terintegrasi secara digital.
 
 ## Latar Belakang
 
