@@ -1,6 +1,16 @@
 [
     {
         "id": 6,
+        "judul": "Pembekalan Magang Industri Periode Semester Gasal 2026/2027",
+        "tanggal": "2026-07-17",
+        "deskripsi": "Peserta magang INdustri yang telah mendaftar dan memperoleh tempat lokasi magang wajib mengikuti pembekalan yang akan dilaksanakan pada 17 Juli 2026.",
+        "kategori": "Akademik",
+        "image": null,
+        "contentUrl": "/content/pengumuman/pengumuman-6.md",
+        "lampiran": "https://drive.google.com/drive/folders/17qGEcRdqnFvClaIK2yIfZO8KssqwL4US?usp=sharing"
+    },
+    {
+        "id": 6,
         "judul": "Jadwal UAS Semester Genap 2025/2026",
         "tanggal": "2026-07-05",
         "deskripsi": "Pelaksanaan UAS Semester gengap akan dimulai pada tanggal 9 Juli 2026 sd selesai. Lihat jadwal terlampir untuk detail.",
