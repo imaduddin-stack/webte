@@ -1,5 +1,15 @@
 [
     {
+        "id": 6,
+        "judul": "Jadwal UAS Semester Genap 2025/2026",
+        "tanggal": "2026-07-05",
+        "deskripsi": "Pelaksanaan UAS Semester gengap akan dimulai pada tanggal 9 Juli 2026 sd selesai. Lihat jadwal terlampir untuk detail.",
+        "kategori": "Akademik",
+        "image": null,
+        "contentUrl": "/content/pengumuman/pengumuman-6.md",
+        "lampiran": "https://drive.google.com/drive/folders/1ubk6dYmoR0hoiMpIZd2B3wzaZoNNV5Ev?usp=sharing"
+    },
+    {
         "id": 1,
         "judul": "Pendaftaran Seminar Proposal Skripsi Semester Gasal 2025/2026",
         "tanggal": "2025-11-01",
