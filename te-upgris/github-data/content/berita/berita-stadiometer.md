@@ -5,8 +5,7 @@
 
 Stunting masih menjadi salah satu permasalahan gizi utama di Indonesia. Deteksi dini sangat penting dilakukan untuk meminimalkan dampak jangka panjang terhadap tumbuh kembang anak. Sayangnya, alat ukur tinggi badan konvensional masih memiliki keterbatasan, baik dari segi presisi maupun pencatatan data. Hal inilah yang mendorong Ganjar Winasis dan Bambang Hadi Kunaryo untuk menciptakan inovasi stadiometer digital yang mampu menjawab tantangan tersebut.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=l9ecETUP7Vk&t=35s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9ecETUP7Vk?si=wJ5Fzo3ww8zc_sLl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Fitur Unggulan Stadiometer Digital
