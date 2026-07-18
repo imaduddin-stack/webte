@@ -1,13 +1,3 @@
----
-title: "Pembekalan Magang Industri oleh PT Autonics Indonesia: Etika Profesi dan K3L untuk Mahasiswa Teknik Elektro UPGris"
-description: "David Bertoni, ST dari PT Autonics Indonesia memberikan pembekalan magang industri kepada 20 mahasiswa Teknik Elektro UPGris tentang etika profesi dan K3L di industri."
-date: 2025-03-26T08:00:00+07:00
-draft: false
-tags: ["magang", "industri", "autonics", "teknik elektro", "upgris", "etika profesi", "k3l"]
-categories: ["Berita", "Magang"]
----
-
-# Pembekalan Magang Industri oleh PT Autonics Indonesia
 
 **Semarang, 17 Juni 2026** – Program Studi Teknik Elektro Universitas PGRI Semarang (UPGRIS) menggelar kegiatan pembekalan magang industri bagi mahasiswa yang akan melaksanakan praktik kerja lapangan di berbagai perusahaan di wilayah Semarang dan sekitarnya. Kegiatan ini menghadirkan **David Bertoni, ST** dari **PT Autonics Indonesia** sebagai narasumber utama.
 
