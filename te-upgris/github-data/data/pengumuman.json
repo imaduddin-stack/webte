@@ -1,6 +1,20 @@
 [
     {
-        "id": 6,
+
+        
+        "id": 7,
+        "judul": "Pembekalan KKN UPGRIS Semester Gasal 2026/2027",
+        "tanggal": "2026-07-17",
+        "deskripsi": "Pembekalan KKN UPGRIS Semester Gasal 2026/2027 akan diselenggarakan pada tanggal 21 Juli 2027 di Balairung UPGRIS.",
+        "kategori": "Akademik",
+        "image": null,
+        "contentUrl": "/content/pengumuman/pengumuman-7.md",
+        "lampiran": "https://drive.google.com/drive/folders/17qGEcRdqnFvClaIK2yIfZO8KssqwL4US?usp=sharing"
+    },
+    {
+
+        
+        "id": 8,
         "judul": "Pembekalan Magang Industri Periode Semester Gasal 2026/2027",
         "tanggal": "2026-07-17",
         "deskripsi": "Peserta magang INdustri yang telah mendaftar dan memperoleh tempat lokasi magang wajib mengikuti pembekalan yang akan dilaksanakan pada 17 Juli 2026.",
